@@ -1,0 +1,165 @@
+.header {
+  overflow: visible;
+}
+
+.headerInner {
+  position: relative;
+}
+
+/* El botón NO hereda el comportamiento de tarjeta grande del nav */
+.desktopNav .loginButton {
+  height: 42px !important;
+  min-height: 42px !important;
+  align-self: center !important;
+  padding: 0 22px !important;
+  margin-left: 14px !important;
+  background: #000 !important;
+  color: #fff !important;
+  border: 1px solid #000 !important;
+  border-radius: 0 !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
+  white-space: nowrap;
+  transition: background 180ms ease, color 180ms ease;
+}
+
+.desktopNav .loginButton::after {
+  display: none !important;
+}
+
+.desktopNav .loginButton:hover {
+  background: #1b1b1b !important;
+  color: #fff !important;
+}
+
+.menuButton {
+  width: 42px;
+  height: 42px;
+  padding: 9px !important;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  cursor: pointer;
+  position: relative;
+  z-index: 102;
+}
+
+.bar,
+.barTopOpen,
+.barMiddleOpen,
+.barBottomOpen {
+  width: 24px;
+  height: 1.5px;
+  background: #071327;
+  display: block;
+  transform-origin: center;
+  transition: transform 180ms ease, opacity 180ms ease;
+}
+
+.barTopOpen {
+  position: absolute;
+  transform: rotate(45deg);
+}
+
+.barMiddleOpen {
+  opacity: 0;
+}
+
+.barBottomOpen {
+  position: absolute;
+  transform: rotate(-45deg);
+}
+
+.mobilePanel {
+  display: none;
+}
+
+@media (max-width: 980px) {
+  .desktopNav {
+    display: none !important;
+  }
+
+  .menuButton {
+    display: flex !important;
+  }
+
+  .mobilePanel {
+    display: block;
+    position: fixed;
+    top: 72px;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    height: calc(100dvh - 72px);
+    background: rgba(255,255,255,.99);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transform: translateY(-8px);
+    transition:
+      opacity 180ms ease,
+      transform 180ms ease,
+      visibility 180ms ease;
+  }
+
+  .mobilePanelOpen {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translateY(0);
+  }
+
+  .mobileNav {
+    width: min(100% - 48px, 540px);
+    margin: 0 auto;
+    padding: 34px 0 40px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .mobileNav > a {
+    display: flex;
+    align-items: center;
+    min-height: 58px;
+    padding: 0 4px;
+    border-bottom: 1px solid #ececef;
+    color: #071327;
+    font-size: 21px;
+    font-weight: 400;
+  }
+
+  .mobileNav > a:first-child {
+    border-top: 1px solid #ececef;
+  }
+
+  .mobileActive {
+    font-weight: 600 !important;
+  }
+
+  .mobileNav .mobileLoginButton {
+    margin-top: 28px;
+    min-height: 50px;
+    padding: 0 20px;
+    justify-content: center;
+    border: 1px solid #000 !important;
+    background: #000;
+    color: #fff;
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 981px) {
+  .menuButton,
+  .mobilePanel {
+    display: none !important;
+  }
+}
+
+@media (max-width: 620px) {
+  .mobileNav {
+    width: calc(100% - 28px);
+  }
+}
