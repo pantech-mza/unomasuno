@@ -2,8 +2,6 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X } from "lucide-react";
-import { useEffect, useState } from "react";
 
 const items = [
   { href: "/", label: "Proyectos" },
@@ -14,53 +12,61 @@ const items = [
 
 export default function Header() {
   const pathname = usePathname();
-  const [open, setOpen] = useState(false);
-
-  useEffect(() => setOpen(false), [pathname]);
-  useEffect(() => {
-    document.body.style.overflow = open ? "hidden" : "";
-    return () => { document.body.style.overflow = ""; };
-  }, [open]);
-
-  const isActive = (href: string) => href === "/" ? pathname === "/" : pathname.startsWith(href);
 
   return (
     <header className="site-header">
-      <div className="site-container header-inner">
-        <Link href="/" className="brand-logo-link" aria-label="UNO MÁS UNO Arquitectos">
-          <img src="/brand/header-logo.png" alt="UNO MÁS UNO Arquitectos" className="brand-logo-img" />
+      <div className="container header-inner">
+        <Link
+          href="/"
+          className="brand-logo-link"
+          aria-label="UNO MÁS UNO Arquitectos"
+        >
+          <img
+            src="/brand/header-logo.png"
+            alt="UNO MÁS UNO Arquitectos"
+            className="brand-logo-img"
+          />
         </Link>
 
-        <nav className="desktop-nav" aria-label="Navegación principal">
-          {items.map((item) => (
-            <Link key={item.href} href={item.href} className={isActive(item.href) ? "active" : ""}>
-              {item.label}
-            </Link>
-          ))}
-        </nav>
+        <nav className="nav" aria-label="Navegación principal">
+          {items.map((item) => {
+            const active =
+              item.href === "/"
+                ? pathname === "/"
+                : pathname.startsWith(item.href);
 
-        <button
-          className="mobile-menu-button"
-          type="button"
-          aria-label={open ? "Cerrar menú" : "Abrir menú"}
-          aria-expanded={open}
-          onClick={() => setOpen((value) => !value)}
-        >
-          {open ? <X size={27} strokeWidth={1.7} /> : <Menu size={27} strokeWidth={1.7} />}
-        </button>
-      </div>
+            return (
+              <Link
+                key={item.href}
+                href={item.href}
+                className={active ? "active" : ""}
+              >
+                {item.label}
+              </Link>
+            );
+          })}
 
-      <div className={`mobile-nav-backdrop ${open ? "is-open" : ""}`} onClick={() => setOpen(false)} />
-      <nav className={`mobile-nav ${open ? "is-open" : ""}`} aria-label="Navegación móvil">
-        <div className="mobile-nav-logo">
-          <img src="/brand/header-logo.png" alt="UNO MÁS UNO Arquitectos" />
-        </div>
-        {items.map((item) => (
-          <Link key={item.href} href={item.href} className={isActive(item.href) ? "active" : ""}>
-            {item.label}
+          <Link
+            href="/admin/login"
+            aria-label="Ingreso al panel de administración"
+            style={{
+              background: "#000",
+              color: "#fff",
+              height: "44px",
+              padding: "0 22px",
+              marginLeft: "12px",
+              alignSelf: "center",
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              borderRadius: "2px",
+              fontWeight: 500,
+            }}
+          >
+            Ingreso
           </Link>
-        ))}
-      </nav>
+        </nav>
+      </div>
     </header>
   );
 }
