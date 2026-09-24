@@ -1,0 +1,226 @@
+
+/* =========================================================
+   MENCIONES + ACADEMIA — AJUSTE 1:1 CON WORDPRESS ORIGINAL
+   PEGAR AL FINAL DE app/globals.css
+   ========================================================= */
+
+.original-editorial-page{
+  width:100%;
+  background:#fff;
+  overflow:hidden;
+}
+
+.original-editorial-list{
+  width:100%;
+  background:#fff;
+}
+
+/* bloque principal */
+.original-editorial-row{
+  width:min(1380px, calc(100% - 96px));
+  margin:0 auto;
+  min-height:560px;
+  display:grid !important;
+  grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+  align-items:center;
+  gap:90px;
+  padding:72px 0;
+}
+
+/* orden alternado */
+.original-editorial-row.text-left .original-editorial-copy{
+  order:1;
+}
+.original-editorial-row.text-left .original-editorial-visual{
+  order:2;
+}
+
+.original-editorial-row.image-left .original-editorial-visual{
+  order:1;
+}
+.original-editorial-row.image-left .original-editorial-copy{
+  order:2;
+}
+
+/* texto */
+.original-editorial-copy{
+  width:100%;
+  max-width:610px;
+  margin:0 auto;
+  text-align:center !important;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+
+.original-editorial-copy h2{
+  margin:0 0 16px;
+  max-width:610px;
+  font-size:31px !important;
+  line-height:1.08 !important;
+  font-weight:400 !important;
+  letter-spacing:-.02em;
+  color:#071327;
+  text-align:center !important;
+}
+
+.original-editorial-subtitle{
+  margin:0 0 16px;
+  max-width:600px;
+  font-size:18px !important;
+  line-height:1.28;
+  font-weight:400;
+  color:#071327;
+  text-align:center !important;
+}
+
+.original-editorial-body{
+  max-width:585px;
+  margin:0 auto;
+  color:#7d8490;
+  font-size:14px !important;
+  line-height:1.48;
+  text-align:center !important;
+}
+
+.original-editorial-body p{
+  margin:0 0 8px;
+}
+
+/* botones */
+.original-actions{
+  margin-top:30px;
+  display:flex !important;
+  flex-direction:column;
+  align-items:center;
+  gap:18px;
+}
+
+.original-action-button{
+  display:inline-flex !important;
+  align-items:center;
+  justify-content:center;
+  min-width:165px;
+  min-height:49px;
+  padding:12px 24px;
+  background:#dedede;
+  color:#7b7b7b !important;
+  border:0;
+  font-size:15px;
+  font-weight:400;
+  line-height:1;
+  text-align:center;
+  transition:background .2s ease,color .2s ease;
+}
+
+.original-action-button:hover{
+  background:#d2d2d2;
+  color:#575757 !important;
+}
+
+/* imagen */
+.original-editorial-visual{
+  width:100%;
+  min-height:340px;
+  display:flex !important;
+  align-items:center;
+  justify-content:center;
+}
+
+.original-editorial-visual img{
+  display:block !important;
+  width:auto !important;
+  height:auto !important;
+  max-width:100% !important;
+  max-height:590px !important;
+  object-fit:contain !important;
+  margin:0 auto;
+}
+
+/* MENCIONES: composición con aire */
+.original-editorial-list.mentions .original-editorial-row{
+  min-height:560px;
+}
+
+/* ACADEMIA: aún más espacio, como el original */
+.original-editorial-list.academia .original-editorial-row{
+  min-height:620px;
+  padding-top:86px;
+  padding-bottom:86px;
+}
+
+/* primer bloque con un poco más de aire superior */
+.original-editorial-list > .original-editorial-row:first-child{
+  padding-top:88px;
+}
+
+/* responsive */
+@media(max-width:1100px){
+  .original-editorial-row{
+    width:min(100% - 48px, 980px);
+    gap:52px;
+  }
+
+  .original-editorial-copy h2{
+    font-size:27px !important;
+  }
+
+  .original-editorial-subtitle{
+    font-size:17px !important;
+  }
+}
+
+@media(max-width:820px){
+  .original-editorial-row{
+    width:calc(100% - 32px);
+    min-height:auto;
+    grid-template-columns:1fr;
+    gap:34px;
+    padding:54px 0;
+  }
+
+  .original-editorial-row.text-left .original-editorial-copy,
+  .original-editorial-row.image-left .original-editorial-copy{
+    order:1;
+  }
+
+  .original-editorial-row.text-left .original-editorial-visual,
+  .original-editorial-row.image-left .original-editorial-visual{
+    order:2;
+  }
+
+  .original-editorial-visual{
+    min-height:220px;
+  }
+
+  .original-editorial-visual img{
+    max-height:480px !important;
+  }
+}
+
+@media(max-width:620px){
+  .original-editorial-copy h2{
+    font-size:24px !important;
+  }
+
+  .original-editorial-subtitle{
+    font-size:16px !important;
+  }
+
+  .original-editorial-body{
+    font-size:13px !important;
+  }
+
+  .original-action-button{
+    min-width:150px;
+    min-height:45px;
+    font-size:14px;
+  }
+
+  .original-editorial-list.academia .original-editorial-row,
+  .original-editorial-list.mentions .original-editorial-row{
+    min-height:auto;
+    padding-top:48px;
+    padding-bottom:48px;
+  }
+}

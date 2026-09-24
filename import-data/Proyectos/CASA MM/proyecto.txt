@@ -1,0 +1,55 @@
+NOMBRE: CASA MM
+SLUG: casa-mm
+WORDPRESS ID: 2361
+UBICACIÓN: Guaymallén, Mendoza
+SUPERFICIE: 108 m2
+AÑO: 2013
+
+DESCRIPCIÓN
+===========
+Guaymallén, Mendoza | 108 m2 | 2013
+
+El proyecto desde su origen plantea un partido "poco frecuente" para una casa de barrio, el bloque de dormitorios se encuentra al frente de la propiedad, mientras que la zona diurna se esconde hacia el interior. La vivienda en su diseño busca el norte casi obsesivamente, por eso la disposición. Se apoya sobre uno de sus laterales dejando un retiro en el otro, el retiro es patio, es acceso, es cochera y galería. Un continuo de piso calado que acompaña el recorrido, un constante fluir en el andar que remata en un árbol, bisagra con la galería principal que se orienta al norte. 
+
+La casa es una gran galería per se, y todos los ambientes se abren a ella, haciendo del acceso principal simplemente una horadación más, destacando de este modo el espacio como tal.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2984 | CASA MM | attachments=17 | urls=0
+
+IMÁGENES
+========
+01. CASAMM.png <- 2023/05/CASAMM.png [attachment-parent, featured]
+02. 426db2_adfa890c92f3432fae7a9df79540fb34mv2.jpg <- 2023/08/426db2_adfa890c92f3432fae7a9df79540fb34mv2.jpg [betheme-builder, modula:2984]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 426db2_00f9175b386f408e83261b9adc127ef7mv2_d_3488_1781_s_2.jpg <- 2023/08/426db2_00f9175b386f408e83261b9adc127ef7mv2_d_3488_1781_s_2.jpg [modula:2984]
+05. 426db2_2583030489b646fb90133936f7a81bb9mv2.jpg <- 2023/08/426db2_2583030489b646fb90133936f7a81bb9mv2.jpg [modula:2984]
+06. 426db2_3af259dd46374ca1af831c3ea79da3d3mv2.jpg <- 2023/08/426db2_3af259dd46374ca1af831c3ea79da3d3mv2.jpg [modula:2984]
+07. 426db2_8fe3d7d0086c44f79a14247a622fe433mv2_d_3489_1598_s_2.jpg <- 2023/08/426db2_8fe3d7d0086c44f79a14247a622fe433mv2_d_3489_1598_s_2.jpg [modula:2984]
+08. 426db2_9a848a450d22444b9a429bc265fdb3edmv2.jpg <- 2023/08/426db2_9a848a450d22444b9a429bc265fdb3edmv2.jpg [modula:2984]
+09. 426db2_aeff45714b3143cf9212fd1f3288e550mv2.jpg <- 2023/08/426db2_aeff45714b3143cf9212fd1f3288e550mv2.jpg [modula:2984]
+10. 426db2_b230695ff3f747859153a5a6a6750eaemv2.jpg <- 2023/08/426db2_b230695ff3f747859153a5a6a6750eaemv2.jpg [modula:2984]
+11. 426db2_c86554675af949d2836404413ebb6096mv2_d_3442_2461_s_4_2.jpg <- 2023/08/426db2_c86554675af949d2836404413ebb6096mv2_d_3442_2461_s_4_2.jpg [modula:2984]
+12. 426db2_d7388b79f8a14aa4ad48dd3615bad55fmv2.jpg <- 2023/08/426db2_d7388b79f8a14aa4ad48dd3615bad55fmv2.jpg [modula:2984]
+13. 426db2_de3103a3e1594d89829c470538f8099dmv2.jpg <- 2023/08/426db2_de3103a3e1594d89829c470538f8099dmv2.jpg [modula:2984]
+14. 426db2_fe1ab40313a0421f9b9c972c81021401mv2.jpg <- 2023/08/426db2_fe1ab40313a0421f9b9c972c81021401mv2.jpg [modula:2984]
+15. architect2.png <- 2016/04/architect2.png [modula:2984]
+16. home_architect2_contentslider_icon1.png <- 2016/04/home_architect2_contentslider_icon1.png [modula:2984]
+17. home_architect2_footer_bg-1.jpg <- 2016/04/home_architect2_footer_bg-1.jpg [modula:2984]
+18. home_architect2_offerslider2.jpg <- 2016/04/home_architect2_offerslider2.jpg [modula:2984]
+19. UMU_MARCA-02-1.png <- 2023/07/UMU_MARCA-02-1.png [modula:2984]
+20. 426db2_00743a53aa8c4531b0e19e00fc29220ef000.jpg <- 2023/07/426db2_00743a53aa8c4531b0e19e00fc29220ef000.jpg [attachment-parent]
+21. CASA-UP.png <- 2023/07/CASA-UP.png [attachment-parent]
+22. CASADELACROIX.png <- 2023/05/CASADELACROIX.png [attachment-parent]
+23. CASAF-1.png <- 2023/05/CASAF-1.png [attachment-parent]
+24. CASAPI.png <- 2023/05/CASAPI.png [attachment-parent]
+25. CASASP.png <- 2023/05/CASASP.png [attachment-parent]
+26. CASATAPIZ.png <- 2023/05/CASATAPIZ.png [attachment-parent]
+27. CASAUP-1.png <- 2023/05/CASAUP-1.png [attachment-parent]
+28. CASAWM.png <- 2023/05/CASAWM.png [attachment-parent]
+29. CASAYERI.png <- 2023/05/CASAYERI.png [attachment-parent]
+30. CASAZEN.png <- 2023/05/CASAZEN.png [attachment-parent]
+31. LACASAYELPIANO.png <- 2023/05/LACASAYELPIANO.png [attachment-parent]
+32. OFICINAF.png <- 2023/05/OFICINAF.png [attachment-parent]

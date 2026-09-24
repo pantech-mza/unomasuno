@@ -1,0 +1,44 @@
+NOMBRE: CASA ZEN
+SLUG: casa-zen
+WORDPRESS ID: 2337
+UBICACIÓN: Mendoza
+SUPERFICIE: 100 m2
+AÑO: 2018
+
+DESCRIPCIÓN
+===========
+Mendoza | 100 m2 | 2018
+
+El proyecto de arquitectura toma un pequeño vacío urbano, lo limita con un juego de muros ortogonales y crea tres espacios principales: un patio de acceso o patio de meditación, un espacio principal de doble altura donde se desarrolla el programa de la pequeña vivienda y un segundo patio como remate. 
+
+La unidad es sencilla, sin embargo dotada de un gran carácter íntimo que invita a la introspección y al encuentro con uno mismo. La casa no se abre a la calle, sino que lo hace a sus patios para enfatizar aún mas esta situación. ​ 
+
+Por fuera se presenta sólida y hermética, mientras que por dentro la resolución de este unico espacio sin divisiones permite que el usuario fluya libremente.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2936 | CASA ZEN | attachments=15 | urls=0
+
+IMÁGENES
+========
+01. CASAZEN.png <- 2023/05/CASAZEN.png [featured]
+02. 11-2.jpg <- 2023/08/11-2.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 02-patio-noche-1.jpg <- 2023/08/02-patio-noche-1.jpg [modula:2936]
+05. 03.-no-se-entiende.jpg <- 2023/08/03.-no-se-entiende.jpg [modula:2936]
+06. 04.-desde-afuera-volando.jpg <- 2023/08/04.-desde-afuera-volando.jpg [modula:2936]
+07. 05.-estar.jpg <- 2023/08/05.-estar.jpg [modula:2936]
+08. 07.-acceso.jpg <- 2023/08/07.-acceso.jpg [modula:2936]
+09. 08.-estar-noche.jpg <- 2023/08/08.-estar-noche.jpg [modula:2936]
+10. 09.-estar.jpg <- 2023/08/09.-estar.jpg [modula:2936]
+11. 10-2.jpg <- 2023/08/10-2.jpg [modula:2936]
+12. 11-1.jpg <- 2023/08/11-1.jpg [modula:2936]
+13. 12-2.jpg <- 2023/08/12-2.jpg [modula:2936]
+14. 13-1.jpg <- 2023/08/13-1.jpg [modula:2936]
+15. 14-1.jpg <- 2023/08/14-1.jpg [modula:2936]
+16. 15-1.jpg <- 2023/08/15-1.jpg [modula:2936]
+17. architect2.png <- 2016/04/architect2.png [modula:2936]
+18. home_architect2_sep.png <- 2016/04/home_architect2_sep.png [modula:2936]
+19. 426db2_4304935dec114810a53f88afa30ce8c9f000.jpg <- 2023/07/426db2_4304935dec114810a53f88afa30ce8c9f000.jpg [attachment-parent]

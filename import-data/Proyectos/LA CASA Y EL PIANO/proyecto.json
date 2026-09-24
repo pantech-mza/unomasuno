@@ -1,0 +1,116 @@
+{
+  "wordpress_id": 2383,
+  "title": "LA CASA Y EL PIANO",
+  "slug": "la-casa-y-el-piano",
+  "status": "publish",
+  "date": "2023-06-07 02:44:43",
+  "modified": "2023-09-27 00:29:49",
+  "menu_order": 0,
+  "location": "Godoy Cruz, Mendoza",
+  "area": "108 m2",
+  "year": "2015",
+  "description": "Godoy Cruz, Mendoza | 108 m2 | 2015\n\nEn origen fue un baño de servicio para la pileta, creció y se convirtió en quincho, creció aun más y se convirtió en casa, pero también quiso ser estudio, y lo fue, quiso aun más y se independizo de la casa original, partió el patio y dibujó sus límites como una línea de frontera zigzagueante, apropiando y cediendo árboles a su paso, como un muto acuerdo entre las partes. Respetó la geografía existente a rajatabla y se amoldo al paisaje, aprovecho cada uno de sus rincones y conformó espacios para múltiples actividades. Finalmente el piano, último en llegar, tomo su lugar en la habitación estudio y la convirtió en música. \n\nLa casa y el piano son ahora melodía constante fluyendo por sus espacios intermedios, un alternancia de sol y sombra por distintas texturas de muros y pisos. Un mirada constante hacia el jardín y sus plantas, las propias y las ahora ajenas que asoman por encima del muro, haciéndose saber parte del mismo espacio.\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2922,
+      "title": "LA CASA Y EL PIANO",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        2923,
+        2924,
+        2925,
+        2926,
+        2927
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "LACASAYELPIANO.png",
+      "original_relative_path": "2023/05/LACASAYELPIANO.png",
+      "sources": [
+        "featured"
+      ]
+    },
+    {
+      "file": "03.jpg",
+      "original_relative_path": "2023/08/03.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "03-2.jpg",
+      "original_relative_path": "2023/08/03-2.jpg",
+      "sources": [
+        "modula:2922"
+      ]
+    },
+    {
+      "file": "04-2.jpg",
+      "original_relative_path": "2023/08/04-2.jpg",
+      "sources": [
+        "modula:2922"
+      ]
+    },
+    {
+      "file": "05-1.jpg",
+      "original_relative_path": "2023/08/05-1.jpg",
+      "sources": [
+        "modula:2922"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2922"
+      ]
+    },
+    {
+      "file": "PIANNO2_page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/PIANNO2_page-0001-scaled.jpg",
+      "sources": [
+        "modula:2922"
+      ]
+    },
+    {
+      "file": "PLANTA-PF_page-0001.jpg",
+      "original_relative_path": "2023/08/PLANTA-PF_page-0001.jpg",
+      "sources": [
+        "modula:2922"
+      ]
+    },
+    {
+      "file": "426db2_3851f3bf16424ba39eff1fdebf441085mv2.jpg",
+      "original_relative_path": "2023/07/426db2_3851f3bf16424ba39eff1fdebf441085mv2.jpg",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASA-SP.png",
+      "original_relative_path": "2023/07/CASA-SP.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASAPI.png",
+      "original_relative_path": "2023/07/CASAPI.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    }
+  ],
+  "missing_images": []
+}

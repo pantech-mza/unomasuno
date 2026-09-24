@@ -1,0 +1,54 @@
+NOMBRE: CASA UP
+SLUG: casa-up
+WORDPRESS ID: 2320
+UBICACIÓN: GENERAL ALVEAR, MENDOZA
+SUPERFICIE: 250 M2
+AÑO: 2018
+
+DESCRIPCIÓN
+===========
+GENERAL ALVEAR, MENDOZA | 250 M2 | 2018
+
+En una obsesiva búsqueda del sol la obra se desarrolla aprovechando el doble ancho del terreno orientando los cinco espacios de carácter principal hacia el norte mientras que los apoyos se ubican al sur. ​
+
+Del mismo modo la casa se divide este-oeste, ubicando en la primera orientación el espacio diurno en relación con la calle y al oeste la zona de habitaciones. A su vez ambos sectores de desfasan conformando un galería en el sector público limitada por la propia arquitectura y cubierta por una pérgola de cañas que genera una agradable luz tamizada.
+
+General Alvear, Mendoza | 250 m2 | 2018
+
+En una obsesiva búsqueda del sol la obra se desarrolla aprovechando el doble ancho del terreno orientando los cinco espacios de carácter principal hacia el norte mientras que los apoyos se ubican al sur. ​
+
+Del mismo modo la casa se divide este-oeste, ubicando en la primera orientación el espacio diurno en relación con la calle y al oeste la zona de habitaciones. A su vez ambos sectores de desfasan conformando un galería en el sector público limitada por la propia arquitectura y cubierta por una pérgola de cañas que genera una agradable luz tamizada.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2835 | CASA UP | attachments=22 | urls=0
+
+IMÁGENES
+========
+01. CASAUP-1.png <- 2023/05/CASAUP-1.png [featured]
+02. 00-Casa-UP-Uno-mas-Uno-©-Luis-Abba-10-scaled.jpg <- 2023/08/00-Casa-UP-Uno-mas-Uno-©-Luis-Abba-10-scaled.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-14-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-14-scaled.jpg [modula:2835]
+05. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-21-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-21-scaled.jpg [modula:2835]
+06. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-22-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-22-scaled.jpg [modula:2835]
+07. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-25-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-25-scaled.jpg [modula:2835]
+08. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-26-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-26-scaled.jpg [modula:2835]
+09. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-27-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-27-scaled.jpg [modula:2835]
+10. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-28-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-28-scaled.jpg [modula:2835]
+11. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-3-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-3-scaled.jpg [modula:2835]
+12. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-38-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-38-scaled.jpg [modula:2835]
+13. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-42-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-42-scaled.jpg [modula:2835]
+14. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-44-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-44-scaled.jpg [modula:2835]
+15. 01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-45-scaled.jpg <- 2023/08/01-Casa-UP-Uno-mas-Uno-©-Luis-Abba-45-scaled.jpg [modula:2835]
+16. 01.PLANTA_page-0001.jpg <- 2023/08/01.PLANTA_page-0001.jpg [modula:2835]
+17. 02.CORTE-VISTA_page-0001.jpg <- 2023/08/02.CORTE-VISTA_page-0001.jpg [modula:2835]
+18. 03-AXO_page-0001.jpg <- 2023/08/03-AXO_page-0001.jpg [modula:2835]
+19. architect2.png <- 2016/04/architect2.png [modula:2835]
+20. home_architect2_contentslider_icon1.png <- 2016/04/home_architect2_contentslider_icon1.png [modula:2835]
+21. home_architect2_contentslider_icon2.png <- 2016/04/home_architect2_contentslider_icon2.png [modula:2835]
+22. home_architect2_footer_bg-1.jpg <- 2016/04/home_architect2_footer_bg-1.jpg [modula:2835]
+23. home_architect2_footer_bg.jpg <- 2016/04/home_architect2_footer_bg.jpg [modula:2835]
+24. home_architect2_sep.png <- 2016/04/home_architect2_sep.png [modula:2835]
+25. retina-architect2.png <- 2016/04/retina-architect2.png [modula:2835]

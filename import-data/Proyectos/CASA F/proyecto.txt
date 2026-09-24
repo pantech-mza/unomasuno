@@ -1,0 +1,58 @@
+NOMBRE: CASA F
+SLUG: casa-f
+WORDPRESS ID: 2390
+UBICACIÓN: General Alvear, Mendoza
+SUPERFICIE: 180 m2
+AÑO: 2016
+
+DESCRIPCIÓN
+===========
+General Alvear, Mendoza | 180 m2 | 2016
+
+La obra se define como espacios en pleno contacto con la naturaleza. Ubicada en un finca de 7 ha, esta casa respeta los dogmas de las viejas casa de campo mendocinas. La cocina, orientada al este, recibe la primera luz de día, el estar comedor en el centro con una amplia galería al norte y el bloque de dormitorios al oeste para recibir la última luz del día.
+
+ Desde el principio el proyecto plantea la experiencia sensorial como principal objetivo. El ingreso, que está conformado por un paseo arbolado ("avenida de los ciruelos") hace las veces de pequeño atrio, confluyendo en un hall semi-cubierto, unión de todas las partes. Hasta ese momento la casa se presenta como un sólido impenetrable, al abrir la puerta de acceso todo cambia, la visual se amplia casi infinitamente y lo lejano se hace cercano, se presentan constantes vistas enmarcadas hacia el gran jardín. 
+
+La elevación juega un papel fundamental en la percepción del espacio, lo que desde afuera se interpreta como un gran volumen consolidado sobre el suelo desde el interior se percibe de forma contraria, una constante sensación de ingravidez acompaña la vida cotidiana. 
+
+Por último, la galería principal, conectada directamente con la zona diurna por medio de una puerta de diseño de doble hoja que puede abrirse completamente ocultando sus partes detrás de los muros permite que el espacio puede tomar el doble de su tamaño original y haciendo también que el límite entre el interior y el exterior sea prácticamente imperceptible.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2823 | CASA F | attachments=23 | urls=0
+
+IMÁGENES
+========
+01. CASAF-1.png <- 2023/05/CASAF-1.png [featured]
+02. 00-Casa-F-Uno-mas-Uno-©-Luis-Abba-4-scaled.jpg <- 2023/08/00-Casa-F-Uno-mas-Uno-©-Luis-Abba-4-scaled.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 01-CASA-F-AXO_page-0001.jpg <- 2023/08/01-CASA-F-AXO_page-0001.jpg [modula:2823]
+05. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-1-scaled.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-1-scaled.jpg [modula:2823]
+06. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-12-scaled.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-12-scaled.jpg [modula:2823]
+07. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg [modula:2823]
+08. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-26-scaled.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-26-scaled.jpg [modula:2823]
+09. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-3-scaled.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-3-scaled.jpg [modula:2823]
+10. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-38-scaled.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-38-scaled.jpg [modula:2823]
+11. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-45-scaled.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-45-scaled.jpg [modula:2823]
+12. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-46-scaled-2.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-46-scaled.jpg [modula:2823]
+13. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-47-scaled.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-47-scaled.jpg [modula:2823]
+14. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-8-scaled.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-8-scaled.jpg [modula:2823]
+15. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-9-scaled.jpg <- 2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-9-scaled.jpg [modula:2823]
+16. architect2.png <- 2016/04/architect2.png [modula:2823]
+17. F1-scaled.jpg <- 2023/08/F1-scaled.jpg [modula:2823]
+18. F2-scaled.jpg <- 2023/08/F2-scaled.jpg [modula:2823]
+19. F3-scaled.jpg <- 2023/08/F3-scaled.jpg [modula:2823]
+20. home_architect2_contentslider_icon2.png <- 2016/04/home_architect2_contentslider_icon2.png [modula:2823]
+21. home_architect2_contentslider_icon3.png <- 2016/04/home_architect2_contentslider_icon3.png [modula:2823]
+22. home_architect2_footer_bg.jpg <- 2016/04/home_architect2_footer_bg.jpg [modula:2823]
+23. home_architect2_footer_logo.png <- 2016/04/home_architect2_footer_logo.png [modula:2823]
+24. home_architect2_sep.png <- 2016/04/home_architect2_sep.png [modula:2823]
+25. home_architect2_sep2.png <- 2016/04/home_architect2_sep2.png [modula:2823]
+26. retina-architect2.png <- 2016/04/retina-architect2.png [modula:2823]
+27. 01-Casa-F-Uno-mas-Uno-©-Luis-Abba-46-scaled.jpg <- 2023/07/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-46-scaled.jpg [attachment-parent]
+28. 426db2_21a6fe5f48cd44458b487953a076644emv2.jpg <- 2023/07/426db2_21a6fe5f48cd44458b487953a076644emv2.jpg [attachment-parent]
+29. CASAF-1-2.png <- 2023/07/CASAF-1.png [attachment-parent]
+30. CASAF-2.png <- 2023/07/CASAF-2.png [attachment-parent]
+31. CASAF.png <- 2023/07/CASAF.png [attachment-parent]

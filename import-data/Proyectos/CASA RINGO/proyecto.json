@@ -1,0 +1,192 @@
+{
+  "wordpress_id": 2881,
+  "title": "CASA RINGO",
+  "slug": "casa-ringo",
+  "status": "publish",
+  "date": "2023-06-11 00:41:28",
+  "modified": "2023-09-26 21:26:30",
+  "menu_order": 0,
+  "location": "General Alvear, Mendoza",
+  "area": "180 m2",
+  "year": "2016",
+  "description": "Casa Ringo, se presenta como un volumen simple, pero su interior encierra un enigma geométrico-espacial. Dos tabiques de hormigón visto, como divisiones estructurales, se introducen en el espacio interior, creando una partición que divide el volumen en tres partes distintas. \n\nEstos tabiques, más allá de su función estructural, se alzan como elementos estéticos que establecen un diálogo continuo entre el mundo interior y exterior de la casa. Su propósito se revela en la idea de fragmentar el vacío que se extiende desde el límite de la volumetría. En este cruce de límites y posibilidades, los tabiques, al extenderse hacia el exterior, fragmentan el espacio vacío de manera poética, creando instancias diversas y singulares tanto en el frente como en la expansión de la casa. Su propósito es más que estructural; es una búsqueda de la trascendencia del espacio convencional.\n\nEstos, además, despliegan el espacio interior más allá de sus límites habituales cuando las carpinterías se abren, llevando el interior hacia los confines que los tabiques proponen. La singularidad del espacio se difumina, invitando al interior a \"ir más allá\".\n\nGeneral Alvear, Mendoza | 180 m2 | 2016\n\nLa obra se define como espacios en pleno contacto con la naturaleza. Ubicada en un finca de 7 ha, esta casa respeta los dogmas de las viejas casa de campo mendocinas. La cocina, orientada al este, recibe la primera luz de día, el estar comedor en el centro con una amplia galería al norte y el bloque de dormitorios al oeste para recibir la última luz del día.\n\n Desde el principio el proyecto plantea la experiencia sensorial como principal objetivo. El ingreso, que está conformado por un paseo arbolado (\"avenida de los ciruelos\") hace las veces de pequeño atrio, confluyendo en un hall semi-cubierto, unión de todas las partes. Hasta ese momento la casa se presenta como un sólido impenetrable, al abrir la puerta de acceso todo cambia, la visual se amplia casi infinitamente y lo lejano se hace cercano, se presentan constantes vistas enmarcadas hacia el gran jardín. \n\nLa elevación juega un papel fundamental en la percepción del espacio, lo que desde afuera se interpreta como un gran volumen consolidado sobre el suelo desde el interior se percibe de forma contraria, una constante sensación de ingravidez acompaña la vida cotidiana. \n\nPor último, la galería principal, conectada directamente con la zona diurna por medio de una puerta de diseño de doble hoja que puede abrirse completamente ocultando sus partes detrás de los muros permite que el espacio puede tomar el doble de su tamaño original y haciendo también que el límite entre el interior y el exterior sea prácticamente imperceptible.\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2866,
+      "title": "CASA RINGO",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        22,
+        44,
+        45,
+        2867,
+        2868,
+        2869,
+        2870,
+        2871,
+        2872,
+        2873,
+        2874,
+        2875,
+        2876,
+        2877,
+        2878,
+        2879,
+        2880
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "RINGO.png",
+      "original_relative_path": "2023/06/RINGO.png",
+      "sources": [
+        "attachment-parent",
+        "featured"
+      ]
+    },
+    {
+      "file": "00-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-20-1-scaled.jpg",
+      "original_relative_path": "2023/08/00-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-20-1-scaled.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-12-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-12-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-14-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-14-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-15-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-15-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-22-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-22-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-5-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-5-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-6-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-6-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-8-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-8-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "01_page-0001-2-scaled.jpg",
+      "original_relative_path": "2023/08/01_page-0001-2-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "02_page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/02_page-0001-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "03_page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/03_page-0001-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "04_page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/04_page-0001-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "05_page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/05_page-0001-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "06_page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/06_page-0001-scaled.jpg",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "home_architect2_contentslider_icon1.png",
+      "original_relative_path": "2016/04/home_architect2_contentslider_icon1.png",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "home_architect2_contentslider_icon2.png",
+      "original_relative_path": "2016/04/home_architect2_contentslider_icon2.png",
+      "sources": [
+        "modula:2866"
+      ]
+    },
+    {
+      "file": "retina-architect2.png",
+      "original_relative_path": "2016/04/retina-architect2.png",
+      "sources": [
+        "modula:2866"
+      ]
+    }
+  ],
+  "missing_images": []
+}

@@ -1,0 +1,39 @@
+NOMBRE: CASA TAPIZ
+SLUG: casa-tapiz
+WORDPRESS ID: 2306
+UBICACIÓN: 
+SUPERFICIE: 
+AÑO: 
+
+DESCRIPCIÓN
+===========
+Casa Tapiz representa un ejercicio proyectual que se enfoca en la utilización de un vacío central como elemento modulador del espacio. En este sentido, el núcleo del proyecto se define por la arquitectura que lo rodea, un perímetro ortogonal que responde a las necesidades programáticas requeridas.
+
+En la zona norte de la casa, se proyecta una galería continua que define un límite permeable del vacío central, permitiendo la entrada de luz y creando una relación fluida entre los patios, el contenido y el expansivo. Esta disposición le otorga a la vivienda la forma de una herradura abierta hacia el norte.
+
+Además, se ha introducido un segundo elemento en el diseño, un muro de piedra que, aunque no forma parte de la estructura principal de la casa, juega un papel importante como modulador del espacio. Este muro crea un patio frontal de servicios y divide el patio central en dos sectores: uno de mayor jerarquía, un patio seco que se relaciona con el área pública, y otro de menor jerarquía pero igualmente relevante, un patio húmedo que se vincula con el área privada. A pesar de compartir el mismo espacio vacío, el muro y su tratamiento paisajístico generan dos situaciones distintas en un mismo lugar.
+
+Mendoza | 2018
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2911 | CASA TAPIZ | attachments=10 | urls=0
+
+IMÁGENES
+========
+01. CASATAPIZ.png <- 2023/05/CASATAPIZ.png [featured]
+02. 01-1.jpg <- 2023/08/01-1.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 01-4.jpg <- 2023/08/01-4.jpg [modula:2911]
+05. 02-2.jpg <- 2023/08/02-2.jpg [modula:2911]
+06. 04-1.jpg <- 2023/08/04-1.jpg [modula:2911]
+07. 06-1.jpg <- 2023/08/06-1.jpg [modula:2911]
+08. 08-1.jpg <- 2023/08/08-1.jpg [modula:2911]
+09. 09-2.jpg <- 2023/08/09-2.jpg [modula:2911]
+10. 10-1.jpg <- 2023/08/10-1.jpg [modula:2911]
+11. 3.jpg <- 2023/08/3.jpg [modula:2911]
+12. architect2.png <- 2016/04/architect2.png [modula:2911]
+13. planta-scaled.jpg <- 2023/08/planta-scaled.jpg [modula:2911]
+14. 426db2_4417802b209843e5bb1b26da65998ad6mv2.jpg <- 2023/07/426db2_4417802b209843e5bb1b26da65998ad6mv2.jpg [attachment-parent]

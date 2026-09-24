@@ -1,0 +1,184 @@
+{
+  "wordpress_id": 2190,
+  "title": "CASA DELACROIX",
+  "slug": "casa-delacroix",
+  "status": "publish",
+  "date": "2023-06-09 12:08:26",
+  "modified": "2023-09-26 23:13:47",
+  "menu_order": 0,
+  "location": "San Rafael, Mendoza",
+  "area": "150 m2",
+  "year": "2019",
+  "description": "En Casa Delacroix, la arquitectura se revela como una manifestación de la esencia misma de los espacios. Las vigas, serenas y contundentes, delinean un recorrido que fusiona lo interior, lo intermedio y lo exterior en una danza armoniosa.\n\nEsta obra se erige como una exploración de las posibilidades de la arquitectura para crear experiencias. Los espacios se entretejen en una narrativa visual que desdibuja las fronteras entre lo que está dentro y lo que está fuera.\n\nLas líneas de visión se convierten en un juego de perspectivas, donde el usuario se adentra en un viaje a través de las capas de la casa. Los llenos y vacíos creados por la retícula de vigas permiten que la luz natural cree juegos de claroscuro en muros y solados, como si fuera una pintura que da vida a la arquitectura.\n\nSan Rafael, Mendoza | 150 m2 | 2019\n\nLas vigas definen el perímetro a construir, a partir de ese momento la obra se resuelve como una conjunción de espacios interiores, intermedios y exteriores que interactúan bajo ese límite.\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2894,
+      "title": "CASA DELACROIX",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        2896,
+        2897,
+        2898,
+        2899,
+        2900,
+        2901,
+        2902,
+        2903,
+        2904,
+        2905,
+        2906,
+        2907,
+        2908,
+        2909,
+        2910
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "CASADELACROIX.png",
+      "original_relative_path": "2023/05/CASADELACROIX.png",
+      "sources": [
+        "featured"
+      ]
+    },
+    {
+      "file": "01.jpg",
+      "original_relative_path": "2023/08/01.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "01-3.jpg",
+      "original_relative_path": "2023/08/01-3.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "02-1.jpg",
+      "original_relative_path": "2023/08/02-1.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "03-1.jpg",
+      "original_relative_path": "2023/08/03-1.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "04.jpg",
+      "original_relative_path": "2023/08/04.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "05.jpg",
+      "original_relative_path": "2023/08/05.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "06.jpg",
+      "original_relative_path": "2023/08/06.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "07.jpg",
+      "original_relative_path": "2023/08/07.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "08.jpg",
+      "original_relative_path": "2023/08/08.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "09-1.jpg",
+      "original_relative_path": "2023/08/09-1.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "10.jpg",
+      "original_relative_path": "2023/08/10.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "11.jpg",
+      "original_relative_path": "2023/08/11.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "12-1.jpg",
+      "original_relative_path": "2023/08/12-1.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "13.jpg",
+      "original_relative_path": "2023/08/13.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "14.jpg",
+      "original_relative_path": "2023/08/14.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "15.jpg",
+      "original_relative_path": "2023/08/15.jpg",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2894"
+      ]
+    },
+    {
+      "file": "00-1.jpg",
+      "original_relative_path": "2014/04/00-1.jpg",
+      "sources": [
+        "attachment-parent"
+      ]
+    }
+  ],
+  "missing_images": [
+    "2014/04/home_architect2_slider4.jpg"
+  ]
+}

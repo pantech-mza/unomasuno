@@ -1,0 +1,37 @@
+CASA DELACROIX | id=2190 | texto=SI | modula=[2894] | imagenes=20 | faltantes=1
+CASA F | id=2390 | texto=SI | modula=[2823] | imagenes=31 | faltantes=0
+CASA MM | id=2361 | texto=SI | modula=[2984] | imagenes=32 | faltantes=0
+CASA PI | id=2299 | texto=SI | modula=[2794] | imagenes=21 | faltantes=0
+CASA QC | id=2293 | texto=SI | modula=[2882] | imagenes=18 | faltantes=1
+CASA RINGO | id=2881 | texto=SI | modula=[2866] | imagenes=21 | faltantes=0
+CASA SP | id=2282 | texto=SI | modula=[2810] | imagenes=22 | faltantes=0
+CASA TAPIZ | id=2306 | texto=SI | modula=[2911] | imagenes=14 | faltantes=0
+CASA UP | id=2320 | texto=SI | modula=[2835] | imagenes=25 | faltantes=0
+CASA WM | id=2327 | texto=SI | modula=[2928] | imagenes=13 | faltantes=0
+CASA YERI | id=2351 | texto=SI | modula=[2974] | imagenes=16 | faltantes=0
+CASA ZEN | id=2337 | texto=SI | modula=[2936] | imagenes=19 | faltantes=0
+LA CASA Y EL PIANO | id=2383 | texto=SI | modula=[2922] | imagenes=12 | faltantes=0
+MUSEO MS | id=2526 | texto=SI | modula=[2777] | imagenes=27 | faltantes=0
+OFICINA F | id=2375 | texto=SI | modula=[2850] | imagenes=17 | faltantes=0
+PLANTA MIHOH | id=2865 | texto=SI | modula=[2860] | imagenes=13 | faltantes=1
+
+POST TYPES
+==========
+attachment: 478
+ngg_pictures: 157
+modula-gallery: 17
+portfolio: 16
+bwg_gallery: 14
+ngg_gallery: 14
+revision: 13
+popup_theme: 8
+display_type: 7
+page: 7
+nav_menu_item: 4
+offer: 3
+popup: 2
+template: 2
+popupbuilder: 1
+post: 1
+vp_lists: 1
+wpcf7_contact_form: 1

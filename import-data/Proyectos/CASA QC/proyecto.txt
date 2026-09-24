@@ -1,0 +1,47 @@
+NOMBRE: CASA QC
+SLUG: casa-qc
+WORDPRESS ID: 2293
+UBICACIÓN: Luján de Cuyo Mendoza
+SUPERFICIE: 150 m2
+AÑO: 2020
+
+DESCRIPCIÓN
+===========
+Luján de Cuyo Mendoza | 150 m2 | 2020
+
+Una obra pensada para compartir momentos. ​ 
+
+La pileta, como corazón del jardín se encuentra rodeada por un conjunto de espacios resueltos con distintos tratamientos de pisos y cubiertas, creando así diversas sensaciones en cada uno ellos, pero participando todos del mismo ámbito. ​ 
+
+El interior está definido por un gran salón con cocina, acompañado de un dormitorio para los propietarios, estos, mirando y relacionándose constantemente con el jardín.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2882 | QC | attachments=16 | urls=0
+
+IMÁGENES
+========
+01. QUINCHO.png <- 2023/06/QUINCHO.png [attachment-parent, featured]
+02. 00-scaled.jpg <- 2023/08/00-scaled.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 00-1-scaled.jpg <- 2023/08/00-1-scaled.jpg [modula:2882]
+05. 01-2-scaled.jpg <- 2023/08/01-2-scaled.jpg [modula:2882]
+06. 01-PLANTA.jpg <- 2023/09/01-PLANTA.jpg [modula:2882]
+07. 02-PLANTA.jpg <- 2023/09/02-PLANTA.jpg [modula:2882]
+08. 02-scaled.jpg <- 2023/08/02-scaled.jpg [modula:2882]
+09. 03.QUINCHOCOMODORO.DIFUSION-GRAFICA-Layout2_page-0001.jpg <- 2023/09/03.QUINCHOCOMODORO.DIFUSION-GRAFICA-Layout2_page-0001.jpg [modula:2882]
+10. 09-scaled.jpg <- 2023/08/09-scaled.jpg [modula:2882]
+11. 12-scaled.jpg <- 2023/08/12-scaled.jpg [modula:2882]
+12. 1M19715-2-scaled.jpg <- 2023/08/1M19715-2-scaled.jpg [modula:2882]
+13. 1M19725-1-scaled.jpg <- 2023/08/1M19725-1-scaled.jpg [modula:2882]
+14. 1M19747-2-scaled.jpg <- 2023/08/1M19747-2-scaled.jpg [modula:2882]
+15. 1M19749-3-scaled.jpg <- 2023/08/1M19749-3-scaled.jpg [modula:2882]
+16. 1M19785-7-scaled.jpg <- 2023/08/1M19785-7-scaled.jpg [modula:2882]
+17. 23-scaled.jpg <- 2023/08/23-scaled.jpg [modula:2882]
+18. architect2.png <- 2016/04/architect2.png [modula:2882]
+
+FALTANTES
+=========
+- 2016/04/home_architect2_slider2.jpg

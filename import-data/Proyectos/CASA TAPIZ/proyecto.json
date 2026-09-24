@@ -1,0 +1,134 @@
+{
+  "wordpress_id": 2306,
+  "title": "CASA TAPIZ",
+  "slug": "casa-tapiz",
+  "status": "publish",
+  "date": "2023-06-08 02:04:35",
+  "modified": "2023-09-26 23:54:48",
+  "menu_order": 0,
+  "location": "",
+  "area": "",
+  "year": "",
+  "description": "Casa Tapiz representa un ejercicio proyectual que se enfoca en la utilización de un vacío central como elemento modulador del espacio. En este sentido, el núcleo del proyecto se define por la arquitectura que lo rodea, un perímetro ortogonal que responde a las necesidades programáticas requeridas.\n\nEn la zona norte de la casa, se proyecta una galería continua que define un límite permeable del vacío central, permitiendo la entrada de luz y creando una relación fluida entre los patios, el contenido y el expansivo. Esta disposición le otorga a la vivienda la forma de una herradura abierta hacia el norte.\n\nAdemás, se ha introducido un segundo elemento en el diseño, un muro de piedra que, aunque no forma parte de la estructura principal de la casa, juega un papel importante como modulador del espacio. Este muro crea un patio frontal de servicios y divide el patio central en dos sectores: uno de mayor jerarquía, un patio seco que se relaciona con el área pública, y otro de menor jerarquía pero igualmente relevante, un patio húmedo que se vincula con el área privada. A pesar de compartir el mismo espacio vacío, el muro y su tratamiento paisajístico generan dos situaciones distintas en un mismo lugar.\n\nMendoza | 2018\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2911,
+      "title": "CASA TAPIZ",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        2912,
+        2913,
+        2914,
+        2915,
+        2916,
+        2917,
+        2918,
+        2919,
+        2921
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "CASATAPIZ.png",
+      "original_relative_path": "2023/05/CASATAPIZ.png",
+      "sources": [
+        "featured"
+      ]
+    },
+    {
+      "file": "01-1.jpg",
+      "original_relative_path": "2023/08/01-1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "01-4.jpg",
+      "original_relative_path": "2023/08/01-4.jpg",
+      "sources": [
+        "modula:2911"
+      ]
+    },
+    {
+      "file": "02-2.jpg",
+      "original_relative_path": "2023/08/02-2.jpg",
+      "sources": [
+        "modula:2911"
+      ]
+    },
+    {
+      "file": "04-1.jpg",
+      "original_relative_path": "2023/08/04-1.jpg",
+      "sources": [
+        "modula:2911"
+      ]
+    },
+    {
+      "file": "06-1.jpg",
+      "original_relative_path": "2023/08/06-1.jpg",
+      "sources": [
+        "modula:2911"
+      ]
+    },
+    {
+      "file": "08-1.jpg",
+      "original_relative_path": "2023/08/08-1.jpg",
+      "sources": [
+        "modula:2911"
+      ]
+    },
+    {
+      "file": "09-2.jpg",
+      "original_relative_path": "2023/08/09-2.jpg",
+      "sources": [
+        "modula:2911"
+      ]
+    },
+    {
+      "file": "10-1.jpg",
+      "original_relative_path": "2023/08/10-1.jpg",
+      "sources": [
+        "modula:2911"
+      ]
+    },
+    {
+      "file": "3.jpg",
+      "original_relative_path": "2023/08/3.jpg",
+      "sources": [
+        "modula:2911"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2911"
+      ]
+    },
+    {
+      "file": "planta-scaled.jpg",
+      "original_relative_path": "2023/08/planta-scaled.jpg",
+      "sources": [
+        "modula:2911"
+      ]
+    },
+    {
+      "file": "426db2_4417802b209843e5bb1b26da65998ad6mv2.jpg",
+      "original_relative_path": "2023/07/426db2_4417802b209843e5bb1b26da65998ad6mv2.jpg",
+      "sources": [
+        "attachment-parent"
+      ]
+    }
+  ],
+  "missing_images": []
+}

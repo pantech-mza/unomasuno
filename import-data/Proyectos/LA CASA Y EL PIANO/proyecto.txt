@@ -1,0 +1,35 @@
+NOMBRE: LA CASA Y EL PIANO
+SLUG: la-casa-y-el-piano
+WORDPRESS ID: 2383
+UBICACIÓN: Godoy Cruz, Mendoza
+SUPERFICIE: 108 m2
+AÑO: 2015
+
+DESCRIPCIÓN
+===========
+Godoy Cruz, Mendoza | 108 m2 | 2015
+
+En origen fue un baño de servicio para la pileta, creció y se convirtió en quincho, creció aun más y se convirtió en casa, pero también quiso ser estudio, y lo fue, quiso aun más y se independizo de la casa original, partió el patio y dibujó sus límites como una línea de frontera zigzagueante, apropiando y cediendo árboles a su paso, como un muto acuerdo entre las partes. Respetó la geografía existente a rajatabla y se amoldo al paisaje, aprovecho cada uno de sus rincones y conformó espacios para múltiples actividades. Finalmente el piano, último en llegar, tomo su lugar en la habitación estudio y la convirtió en música. 
+
+La casa y el piano son ahora melodía constante fluyendo por sus espacios intermedios, un alternancia de sol y sombra por distintas texturas de muros y pisos. Un mirada constante hacia el jardín y sus plantas, las propias y las ahora ajenas que asoman por encima del muro, haciéndose saber parte del mismo espacio.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2922 | LA CASA Y EL PIANO | attachments=6 | urls=0
+
+IMÁGENES
+========
+01. LACASAYELPIANO.png <- 2023/05/LACASAYELPIANO.png [featured]
+02. 03.jpg <- 2023/08/03.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 03-2.jpg <- 2023/08/03-2.jpg [modula:2922]
+05. 04-2.jpg <- 2023/08/04-2.jpg [modula:2922]
+06. 05-1.jpg <- 2023/08/05-1.jpg [modula:2922]
+07. architect2.png <- 2016/04/architect2.png [modula:2922]
+08. PIANNO2_page-0001-scaled.jpg <- 2023/08/PIANNO2_page-0001-scaled.jpg [modula:2922]
+09. PLANTA-PF_page-0001.jpg <- 2023/08/PLANTA-PF_page-0001.jpg [modula:2922]
+10. 426db2_3851f3bf16424ba39eff1fdebf441085mv2.jpg <- 2023/07/426db2_3851f3bf16424ba39eff1fdebf441085mv2.jpg [attachment-parent]
+11. CASA-SP.png <- 2023/07/CASA-SP.png [attachment-parent]
+12. CASAPI.png <- 2023/07/CASAPI.png [attachment-parent]

@@ -1,0 +1,190 @@
+{
+  "wordpress_id": 2299,
+  "title": "CASA PI",
+  "slug": "casa-pi",
+  "status": "publish",
+  "date": "2023-07-15 01:59:32",
+  "modified": "2023-09-26 19:02:00",
+  "menu_order": 0,
+  "location": "Tunuyán, Mendoza",
+  "area": "250 m2",
+  "year": "2018",
+  "description": "Tunuyán, Mendoza | 250 m2 | 2018\n\nCasa PI es el resultado de una rigurosa organización y diseño geométrico que define las líneas principales sobre las cuales se estructura la obrapara su construcción. Estas líneas plantean los límites entre los diferentes espacios. Las vigas de entrepiso se evidencian en la casa tanto interior como exteriormente, como un testimonio construido del proceso de pensamiento. \n\nEn este damero se definen llenos y vacíos que se entrelazan en una suerte de tablero de ajedrez, en el que siempre un espacio interior está acompañado de uno exterior. De este modo, desde el acceso hasta la expansión se convive en constante contacto con el patio. ​\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2794,
+      "title": "CASA PI",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        53,
+        2795,
+        2796,
+        2797,
+        2798,
+        2799,
+        2800,
+        2801,
+        2802,
+        2803,
+        2804,
+        2805,
+        2806,
+        2808,
+        2809,
+        2960
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "CASAPI.png",
+      "original_relative_path": "2023/05/CASAPI.png",
+      "sources": [
+        "featured"
+      ]
+    },
+    {
+      "file": "00-PI-11-ARQ-©Luis-Abba-3-scaled.jpg",
+      "original_relative_path": "2023/07/00-PI-11-ARQ-©Luis-Abba-3-scaled.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "01-CASA-PI-scaled.jpg",
+      "original_relative_path": "2023/08/01-CASA-PI-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-11-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-11-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-15-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-15-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-16-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-16-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-2-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-2-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-23-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-23-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-31-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-31-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-53-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-53-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-57-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-57-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-62-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-62-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-65-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-65-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "01-PI-11-ARQ-©Luis-Abba-8-scaled.jpg",
+      "original_relative_path": "2023/08/01-PI-11-ARQ-©Luis-Abba-8-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "02-CASA-PI-scaled.jpg",
+      "original_relative_path": "2023/08/02-CASA-PI-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "03-CASA-PI-scaled.jpg",
+      "original_relative_path": "2023/08/03-CASA-PI-scaled.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "AXO-CAD_page-0001.jpg",
+      "original_relative_path": "2023/08/AXO-CAD_page-0001.jpg",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "home_architect2_slider_pic.png",
+      "original_relative_path": "2016/04/home_architect2_slider_pic.png",
+      "sources": [
+        "modula:2794"
+      ]
+    },
+    {
+      "file": "426db2_89f760ab0df94e1588639587bc62dde9f000.jpg",
+      "original_relative_path": "2023/07/426db2_89f760ab0df94e1588639587bc62dde9f000.jpg",
+      "sources": [
+        "attachment-parent"
+      ]
+    }
+  ],
+  "missing_images": []
+}

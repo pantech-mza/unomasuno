@@ -1,0 +1,266 @@
+{
+  "wordpress_id": 2390,
+  "title": "CASA F",
+  "slug": "casa-f",
+  "status": "publish",
+  "date": "2023-07-05 02:47:07",
+  "modified": "2023-09-26 19:02:59",
+  "menu_order": 0,
+  "location": "General Alvear, Mendoza",
+  "area": "180 m2",
+  "year": "2016",
+  "description": "General Alvear, Mendoza | 180 m2 | 2016\n\nLa obra se define como espacios en pleno contacto con la naturaleza. Ubicada en un finca de 7 ha, esta casa respeta los dogmas de las viejas casa de campo mendocinas. La cocina, orientada al este, recibe la primera luz de día, el estar comedor en el centro con una amplia galería al norte y el bloque de dormitorios al oeste para recibir la última luz del día.\n\n Desde el principio el proyecto plantea la experiencia sensorial como principal objetivo. El ingreso, que está conformado por un paseo arbolado (\"avenida de los ciruelos\") hace las veces de pequeño atrio, confluyendo en un hall semi-cubierto, unión de todas las partes. Hasta ese momento la casa se presenta como un sólido impenetrable, al abrir la puerta de acceso todo cambia, la visual se amplia casi infinitamente y lo lejano se hace cercano, se presentan constantes vistas enmarcadas hacia el gran jardín. \n\nLa elevación juega un papel fundamental en la percepción del espacio, lo que desde afuera se interpreta como un gran volumen consolidado sobre el suelo desde el interior se percibe de forma contraria, una constante sensación de ingravidez acompaña la vida cotidiana. \n\nPor último, la galería principal, conectada directamente con la zona diurna por medio de una puerta de diseño de doble hoja que puede abrirse completamente ocultando sus partes detrás de los muros permite que el espacio puede tomar el doble de su tamaño original y haciendo también que el límite entre el interior y el exterior sea prácticamente imperceptible.\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2823,
+      "title": "CASA F",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        22,
+        24,
+        38,
+        40,
+        45,
+        46,
+        47,
+        2824,
+        2825,
+        2826,
+        2827,
+        2828,
+        2829,
+        2830,
+        2831,
+        2832,
+        2833,
+        2834,
+        2966,
+        2967,
+        2968,
+        2969
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "CASAF-1.png",
+      "original_relative_path": "2023/05/CASAF-1.png",
+      "sources": [
+        "featured"
+      ]
+    },
+    {
+      "file": "00-Casa-F-Uno-mas-Uno-©-Luis-Abba-4-scaled.jpg",
+      "original_relative_path": "2023/08/00-Casa-F-Uno-mas-Uno-©-Luis-Abba-4-scaled.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "01-CASA-F-AXO_page-0001.jpg",
+      "original_relative_path": "2023/08/01-CASA-F-AXO_page-0001.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-1-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-1-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-12-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-12-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-26-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-26-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-3-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-3-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-38-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-38-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-45-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-45-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-46-scaled-2.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-46-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-47-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-47-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-8-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-8-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-9-scaled.jpg",
+      "original_relative_path": "2023/08/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-9-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "F1-scaled.jpg",
+      "original_relative_path": "2023/08/F1-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "F2-scaled.jpg",
+      "original_relative_path": "2023/08/F2-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "F3-scaled.jpg",
+      "original_relative_path": "2023/08/F3-scaled.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "home_architect2_contentslider_icon2.png",
+      "original_relative_path": "2016/04/home_architect2_contentslider_icon2.png",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "home_architect2_contentslider_icon3.png",
+      "original_relative_path": "2016/04/home_architect2_contentslider_icon3.png",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "home_architect2_footer_bg.jpg",
+      "original_relative_path": "2016/04/home_architect2_footer_bg.jpg",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "home_architect2_footer_logo.png",
+      "original_relative_path": "2016/04/home_architect2_footer_logo.png",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "home_architect2_sep.png",
+      "original_relative_path": "2016/04/home_architect2_sep.png",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "home_architect2_sep2.png",
+      "original_relative_path": "2016/04/home_architect2_sep2.png",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "retina-architect2.png",
+      "original_relative_path": "2016/04/retina-architect2.png",
+      "sources": [
+        "modula:2823"
+      ]
+    },
+    {
+      "file": "01-Casa-F-Uno-mas-Uno-©-Luis-Abba-46-scaled.jpg",
+      "original_relative_path": "2023/07/01-Casa-F-Uno-mas-Uno-©-Luis-Abba-46-scaled.jpg",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "426db2_21a6fe5f48cd44458b487953a076644emv2.jpg",
+      "original_relative_path": "2023/07/426db2_21a6fe5f48cd44458b487953a076644emv2.jpg",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASAF-1-2.png",
+      "original_relative_path": "2023/07/CASAF-1.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASAF-2.png",
+      "original_relative_path": "2023/07/CASAF-2.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASAF.png",
+      "original_relative_path": "2023/07/CASAF.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    }
+  ],
+  "missing_images": []
+}

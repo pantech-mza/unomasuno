@@ -1,0 +1,35 @@
+NOMBRE: CASA YERI
+SLUG: casa-yeri
+WORDPRESS ID: 2351
+UBICACIÓN: 
+SUPERFICIE: 
+AÑO: 
+
+DESCRIPCIÓN
+===========
+Casa Yeri es todo. Una síntesis de la prioridad humana sobre la profesional. Una "coraza" que se apoya en sus tres laterales, con un "yelmo" en el cuarto, que defiende y protege al corazón, el vacío central. El proyecto de arquitectura conjuga la simpleza constructiva con la intrínseca sutileza de las líneas ocultas. No pretende nada, no se ostenta ante sus lindantes, pero esconde un sin fin de maravillas. La casa no tiene matices, cada elemento es una pieza inamovible, tanto constructiva, estructural como compositivamente.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2974 | CASA YERI | attachments=13 | urls=0
+
+IMÁGENES
+========
+01. CASAYERI.png <- 2023/05/CASAYERI.png [featured]
+02. 426db2_2d4e0c18c31e4dba98155139799aa0dbmv2.jpg <- 2023/07/426db2_2d4e0c18c31e4dba98155139799aa0dbmv2.jpg [attachment-parent, betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 426db2_09ee5b55951a40a1a5e865039d149a60mv2_d_3488_1741_s_2.jpg <- 2023/08/426db2_09ee5b55951a40a1a5e865039d149a60mv2_d_3488_1741_s_2.jpg [modula:2974]
+05. 426db2_27cba09c18524531afa1a7c149af412bmv2_d_3488_2461_s_4_2.jpg <- 2023/08/426db2_27cba09c18524531afa1a7c149af412bmv2_d_3488_2461_s_4_2.jpg [modula:2974]
+06. 426db2_2d4e0c18c31e4dba98155139799aa0dbmv2-1.jpg <- 2023/08/426db2_2d4e0c18c31e4dba98155139799aa0dbmv2-1.jpg [modula:2974]
+07. 426db2_35ef44fc40b540f7983bda11be89618bmv2.jpg <- 2023/08/426db2_35ef44fc40b540f7983bda11be89618bmv2.jpg [modula:2974]
+08. 426db2_398939cb90cb4f718d6ee4970cad5ebamv2.jpg <- 2023/08/426db2_398939cb90cb4f718d6ee4970cad5ebamv2.jpg [modula:2974]
+09. 426db2_aaa55528007d4d27b496bc5dd560a7f6mv2.jpg <- 2023/08/426db2_aaa55528007d4d27b496bc5dd560a7f6mv2.jpg [modula:2974]
+10. 426db2_c35e416ca8594bcd807debba7dd5c7bfmv2.jpg <- 2023/08/426db2_c35e416ca8594bcd807debba7dd5c7bfmv2.jpg [modula:2974]
+11. 426db2_e4c355b8f69c4c18ace1c7db9a6be460mv2.jpg <- 2023/08/426db2_e4c355b8f69c4c18ace1c7db9a6be460mv2.jpg [modula:2974]
+12. architect2.png <- 2016/04/architect2.png [modula:2974]
+13. home_architect2_contentslider_icon1.png <- 2016/04/home_architect2_contentslider_icon1.png [modula:2974]
+14. home_architect2_footer_bg-1.jpg <- 2016/04/home_architect2_footer_bg-1.jpg [modula:2974]
+15. home_architect2_footer_logo.png <- 2016/04/home_architect2_footer_logo.png [modula:2974]
+16. UMU_MARCA-02-1.png <- 2023/07/UMU_MARCA-02-1.png [modula:2974]

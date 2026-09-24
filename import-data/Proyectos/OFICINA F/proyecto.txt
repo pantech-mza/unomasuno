@@ -1,0 +1,42 @@
+NOMBRE: OFICINA F
+SLUG: oficina-f
+WORDPRESS ID: 2375
+UBICACIÓN: General Alvear, Mendoza
+SUPERFICIE: 80 m2
+AÑO: 2013
+
+DESCRIPCIÓN
+===========
+General Alvear, Mendoza | 80 m2 | 2013
+
+Emplazada en un transitada intersección de la ciudad de General Alvear, el proyecto de arquitectura resuelve un sencillo programa que consta de un espacio de atención al público, dos privados y un núcleo de servicios. 
+
+La obra toma la esquina desmaterializando su límite, partiendo el terreno en dos. Deja libre, y entrega a la ciudad una de las fracciones, generando un retiro, retiro que es patio y acceso. ​
+
+El límite entre el interior y el exterior está resuelto con una serie de elementos constructivos que plantean un juego de seducción entre lo que se puede ver y lo que no. El muro principal que rompe en el exterior atravesando el retiro, lo hace sin tocar el suelo, generando una constante expectativa sobre la ingravidez de la masa.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2850 | OFICINA F | attachments=13 | urls=0
+
+IMÁGENES
+========
+01. OFICINAF.png <- 2023/05/OFICINAF.png [featured]
+02. 00-Oficinas-Uno-mas-Uno-©-Luis-Abba-5-scaled.jpg <- 2023/08/00-Oficinas-Uno-mas-Uno-©-Luis-Abba-5-scaled.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 00_page-0001-scaled.jpg <- 2023/08/00_page-0001-scaled.jpg [modula:2850]
+05. 01-Oficinas-Uno-mas-Uno-©-Luis-Abba-13-scaled.jpg <- 2023/08/01-Oficinas-Uno-mas-Uno-©-Luis-Abba-13-scaled.jpg [modula:2850]
+06. 01-Oficinas-Uno-mas-Uno-©-Luis-Abba-16-scaled.jpg <- 2023/08/01-Oficinas-Uno-mas-Uno-©-Luis-Abba-16-scaled.jpg [modula:2850]
+07. 01-Oficinas-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg <- 2023/08/01-Oficinas-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg [modula:2850]
+08. 01-Oficinas-Uno-mas-Uno-©-Luis-Abba-20-scaled.jpg <- 2023/08/01-Oficinas-Uno-mas-Uno-©-Luis-Abba-20-scaled.jpg [modula:2850]
+09. 01-Oficinas-Uno-mas-Uno-©-Luis-Abba-21-scaled.jpg <- 2023/08/01-Oficinas-Uno-mas-Uno-©-Luis-Abba-21-scaled.jpg [modula:2850]
+10. 01-Oficinas-Uno-mas-Uno-©-Luis-Abba-3-scaled.jpg <- 2023/08/01-Oficinas-Uno-mas-Uno-©-Luis-Abba-3-scaled.jpg [modula:2850]
+11. 01-Oficinas-Uno-mas-Uno-©-Luis-Abba-6-scaled.jpg <- 2023/08/01-Oficinas-Uno-mas-Uno-©-Luis-Abba-6-scaled.jpg [modula:2850]
+12. 03-MURO_page-0001-scaled.jpg <- 2023/08/03-MURO_page-0001-scaled.jpg [modula:2850]
+13. architect2.png <- 2016/04/architect2.png [modula:2850]
+14. home_architect2_footer_bg-1.jpg <- 2016/04/home_architect2_footer_bg-1.jpg [modula:2850]
+15. OFICINA1-scaled.jpg <- 2023/08/OFICINA1-scaled.jpg [modula:2850]
+16. retina-architect2.png <- 2016/04/retina-architect2.png [modula:2850]
+17. 426db2_2e87c1f7560f456b9446ebcf6e5f76b0mv2.jpg <- 2023/07/426db2_2e87c1f7560f456b9446ebcf6e5f76b0mv2.jpg [attachment-parent]

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Nicol%C3%A1s/Documents/unomasuno/lib/supabase-browser.ts"],"sourcesContent":["import { createBrowserClient } from \"@supabase/ssr\";\n\nexport function createClient(){\n  return createBrowserClient(\n    process.env.NEXT_PUBLIC_SUPABASE_URL!,\n    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;AAAA;;AAEO,SAAS;IACd,OAAO,IAAA,2NAAmB;AAI5B","debugId":null}},
+    {"offset": {"line": 42, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Nicol%C3%A1s/Documents/unomasuno/components/AdminSignOut.tsx"],"sourcesContent":["\"use client\";\nimport { LogOut } from \"lucide-react\";\nimport { useRouter } from \"next/navigation\";\nimport { createClient } from \"@/lib/supabase-browser\";\nexport default function AdminSignOut(){\n  const router=useRouter();\n  return <button className=\"admin-nav-button\" onClick={async()=>{await createClient().auth.signOut(); router.replace(\"/admin/login\"); router.refresh();}}><LogOut size={16}/> Salir</button>;\n}\n"],"names":[],"mappings":";;;;;AACA;AACA;AACA;AAHA;;;;;AAIe,SAAS;IACtB,MAAM,SAAO,IAAA,yKAAS;IACtB,qBAAO,wQAAC;QAAO,WAAU;QAAmB,SAAS;YAAU,MAAM,IAAA,oKAAY,IAAG,IAAI,CAAC,OAAO;YAAI,OAAO,OAAO,CAAC;YAAiB,OAAO,OAAO;QAAG;;0BAAG,wQAAC,8OAAM;gBAAC,MAAM;;;;;;YAAK;;;;;;;AAC7K","debugId":null}}]
+}

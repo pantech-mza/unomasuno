@@ -1,0 +1,68 @@
+NOMBRE: MUSEO MS
+SLUG: museo-ms
+WORDPRESS ID: 2526
+UBICACIÓN: General Alvear, Mendoza
+SUPERFICIE: 180 m2
+AÑO: 2016
+
+DESCRIPCIÓN
+===========
+En General Alvear, Mendoza, se erige un testigo del tiempo y la tradición vinícola: una antigua bodega, cuyos orígenes se remontan a 1924, cuando sus primeras piletas albergaron el vino de la familia Hidalgo. Sin embargo, a finales de los años 70 tras ser abandonada, el paso del tiempo y la falta de atención, el edificio quedó prácticamente en ruinas. En el año 2015, cuatro décadas después, un heredero de la familia, dotado de visión artística y cultural, adquiere la estructura con el propósito de transformarla en su atelier, museo personal y sala de exposiciones.
+
+Este proyecto de restauración se planteó con dos objetivos primordiales. En primer lugar, se buscó preservar la identidad intrínseca del edificio, su esencia original. Este desafío se afrontó con lo que hemos denominado "acupuntura proyectual", una práctica que enfatiza intervenciones precisas y delicadas para abordar problemas estructurales, constructivos y, sobre todo, para mantener viva la morfología y comunicación de la obra.
+
+La nueva cubierta, por ejemplo, se concibió como una estructura independiente de la original, de tal manera que conviven en armonía sin menoscabar el carácter original. Los revestimientos, cuidadosamente ejecutados, presentan líneas de corte limpias y distinguibles entre lo antiguo y lo nuevo, preservando así la integridad estilística de la construcción.
+
+El segundo objetivo se centró en la exploración de la luz como un elemento adicional de composición, capaz de crear atmósferas dramáticas en los diferentes espacios. Se aprovecharon las aberturas existentes y se crearon nuevas, con la finalidad de realzar la identidad del edificio. El resultado es un edificio que no solo alberga obras de arte, sino que se convierte en una obra  en sí mismo.
+
+Se perforaron estratégicamente aberturas desde el pasillo hacia el interior de las piletas, invitando al visitante a adentrarse en un espacio que normalmente queda oculto. Las piletas aún conservan vestigios aromáticos del vino almacenado, lo que permite que el arte y el perfume se fusionen en una experiencia multisensorial. Además, la horadación superior de las piletas se transformó en un lucernario natural, generando una luz focal que se modifica con el transcurso de las horas, proporcionando un dinamismo espacial que interactúa con el arte y enriquece la experiencia del visitante.
+
+Cabe destacar que la restauración no tuvo desarrollo de proyecto convencional, sino que se trabajó de manera simultánea con la ejecución de la obra. Este enfoque inmersivo condicionó las acciones  a ser estudiadas y analizadas a diferentes momentos del día, garantizando una reflexión global sobre el impacto de las intervenciones en la estructura original.
+
+Esta restauración es un ejemplo de cómo la arquitectura puede revitalizar el patrimonio, conservar la esencia del pasado y, al mismo tiempo, dar vida a nuevas experiencias y expresiones, todo ello interviniedo en forma cuidadosa y respetuosa sobre lo existente. Reafirmando el rol del arquitecto como agente reflexivo sobre la construcción y condición del espacio.
+
+General Alvear, Mendoza | 180 m2 | 2016
+
+La obra se define como espacios en pleno contacto con la naturaleza. Ubicada en un finca de 7 ha, esta casa respeta los dogmas de las viejas casa de campo mendocinas. La cocina, orientada al este, recibe la primera luz de día, el estar comedor en el centro con una amplia galería al norte y el bloque de dormitorios al oeste para recibir la última luz del día.
+
+ Desde el principio el proyecto plantea la experiencia sensorial como principal objetivo. El ingreso, que está conformado por un paseo arbolado ("avenida de los ciruelos") hace las veces de pequeño atrio, confluyendo en un hall semi-cubierto, unión de todas las partes. Hasta ese momento la casa se presenta como un sólido impenetrable, al abrir la puerta de acceso todo cambia, la visual se amplia casi infinitamente y lo lejano se hace cercano, se presentan constantes vistas enmarcadas hacia el gran jardín. 
+
+La elevación juega un papel fundamental en la percepción del espacio, lo que desde afuera se interpreta como un gran volumen consolidado sobre el suelo desde el interior se percibe de forma contraria, una constante sensación de ingravidez acompaña la vida cotidiana. 
+
+Por último, la galería principal, conectada directamente con la zona diurna por medio de una puerta de diseño de doble hoja que puede abrirse completamente ocultando sus partes detrás de los muros permite que el espacio puede tomar el doble de su tamaño original y haciendo también que el límite entre el interior y el exterior sea prácticamente imperceptible.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2777 | MUSEO MS | attachments=24 | urls=0
+
+IMÁGENES
+========
+01. MUSEOMS.png <- 2023/08/MUSEOMS.png [attachment-parent, featured]
+02. 00-Museo-Uno-mas-Uno-©-Luis-Abba-37-scaled.jpg <- 2023/08/00-Museo-Uno-mas-Uno-©-Luis-Abba-37-scaled.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder, modula:2777]
+04. 01-AXO-COMPLETA_page-0001-scaled.jpg <- 2023/08/01-AXO-COMPLETA_page-0001-scaled.jpg [modula:2777]
+05. 01-Museo-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg [modula:2777]
+06. 01-Museo-Uno-mas-Uno-©-Luis-Abba-21-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-21-scaled.jpg [modula:2777]
+07. 01-Museo-Uno-mas-Uno-©-Luis-Abba-25-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-25-scaled.jpg [modula:2777]
+08. 01-Museo-Uno-mas-Uno-©-Luis-Abba-30-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-30-scaled.jpg [modula:2777]
+09. 01-Museo-Uno-mas-Uno-©-Luis-Abba-36-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-36-scaled.jpg [modula:2777]
+10. 01-Museo-Uno-mas-Uno-©-Luis-Abba-39-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-39-scaled.jpg [modula:2777]
+11. 01-Museo-Uno-mas-Uno-©-Luis-Abba-44-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-44-scaled.jpg [modula:2777]
+12. 01-Museo-Uno-mas-Uno-©-Luis-Abba-45-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-45-scaled.jpg [modula:2777]
+13. 01-Museo-Uno-mas-Uno-©-Luis-Abba-46-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-46-scaled.jpg [modula:2777]
+14. 01-Museo-Uno-mas-Uno-©-Luis-Abba-50-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-50-scaled.jpg [modula:2777]
+15. 01-Museo-Uno-mas-Uno-©-Luis-Abba-53-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-53-scaled.jpg [modula:2777]
+16. 01-Museo-Uno-mas-Uno-©-Luis-Abba-56-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-56-scaled.jpg [modula:2777]
+17. 01-Museo-Uno-mas-Uno-©-Luis-Abba-6-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-6-scaled.jpg [modula:2777]
+18. 01-Museo-Uno-mas-Uno-©-Luis-Abba-scaled.jpg <- 2023/08/01-Museo-Uno-mas-Uno-©-Luis-Abba-scaled.jpg [modula:2777]
+19. 02-PLANTA_page-0001-scaled.jpg <- 2023/08/02-PLANTA_page-0001-scaled.jpg [modula:2777]
+20. architect2.png <- 2016/04/architect2.png [modula:2777]
+21. home_architect2_contentslider_icon1.png <- 2016/04/home_architect2_contentslider_icon1.png [modula:2777]
+22. home_architect2_contentslider_icon2.png <- 2016/04/home_architect2_contentslider_icon2.png [modula:2777]
+23. home_architect2_contentslider_icon3.png <- 2016/04/home_architect2_contentslider_icon3.png [modula:2777]
+24. home_architect2_footer_logo.png <- 2016/04/home_architect2_footer_logo.png [modula:2777]
+25. home_architect2_offerslider1.jpg <- 2016/04/home_architect2_offerslider1.jpg [modula:2777]
+26. home_architect2_slider_pic.png <- 2016/04/home_architect2_slider_pic.png [modula:2777]
+27. MS.png <- 2023/08/MS.png [attachment-parent]

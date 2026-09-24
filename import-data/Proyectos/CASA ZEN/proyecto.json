@@ -1,0 +1,174 @@
+{
+  "wordpress_id": 2337,
+  "title": "CASA ZEN",
+  "slug": "casa-zen",
+  "status": "publish",
+  "date": "2023-06-05 02:19:10",
+  "modified": "2023-09-27 13:45:11",
+  "menu_order": 0,
+  "location": "Mendoza",
+  "area": "100 m2",
+  "year": "2018",
+  "description": "Mendoza | 100 m2 | 2018\n\nEl proyecto de arquitectura toma un pequeño vacío urbano, lo limita con un juego de muros ortogonales y crea tres espacios principales: un patio de acceso o patio de meditación, un espacio principal de doble altura donde se desarrolla el programa de la pequeña vivienda y un segundo patio como remate. \n\nLa unidad es sencilla, sin embargo dotada de un gran carácter íntimo que invita a la introspección y al encuentro con uno mismo. La casa no se abre a la calle, sino que lo hace a sus patios para enfatizar aún mas esta situación. ​ \n\nPor fuera se presenta sólida y hermética, mientras que por dentro la resolución de este unico espacio sin divisiones permite que el usuario fluya libremente.\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2936,
+      "title": "CASA ZEN",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        24,
+        2937,
+        2938,
+        2939,
+        2940,
+        2941,
+        2942,
+        2943,
+        2944,
+        2945,
+        2946,
+        2947,
+        2948,
+        2949
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "CASAZEN.png",
+      "original_relative_path": "2023/05/CASAZEN.png",
+      "sources": [
+        "featured"
+      ]
+    },
+    {
+      "file": "11-2.jpg",
+      "original_relative_path": "2023/08/11-2.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "02-patio-noche-1.jpg",
+      "original_relative_path": "2023/08/02-patio-noche-1.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "03.-no-se-entiende.jpg",
+      "original_relative_path": "2023/08/03.-no-se-entiende.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "04.-desde-afuera-volando.jpg",
+      "original_relative_path": "2023/08/04.-desde-afuera-volando.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "05.-estar.jpg",
+      "original_relative_path": "2023/08/05.-estar.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "07.-acceso.jpg",
+      "original_relative_path": "2023/08/07.-acceso.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "08.-estar-noche.jpg",
+      "original_relative_path": "2023/08/08.-estar-noche.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "09.-estar.jpg",
+      "original_relative_path": "2023/08/09.-estar.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "10-2.jpg",
+      "original_relative_path": "2023/08/10-2.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "11-1.jpg",
+      "original_relative_path": "2023/08/11-1.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "12-2.jpg",
+      "original_relative_path": "2023/08/12-2.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "13-1.jpg",
+      "original_relative_path": "2023/08/13-1.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "14-1.jpg",
+      "original_relative_path": "2023/08/14-1.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "15-1.jpg",
+      "original_relative_path": "2023/08/15-1.jpg",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "home_architect2_sep.png",
+      "original_relative_path": "2016/04/home_architect2_sep.png",
+      "sources": [
+        "modula:2936"
+      ]
+    },
+    {
+      "file": "426db2_4304935dec114810a53f88afa30ce8c9f000.jpg",
+      "original_relative_path": "2023/07/426db2_4304935dec114810a53f88afa30ce8c9f000.jpg",
+      "sources": [
+        "attachment-parent"
+      ]
+    }
+  ],
+  "missing_images": []
+}

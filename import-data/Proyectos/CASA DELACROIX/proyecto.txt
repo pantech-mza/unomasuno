@@ -1,0 +1,51 @@
+NOMBRE: CASA DELACROIX
+SLUG: casa-delacroix
+WORDPRESS ID: 2190
+UBICACIÓN: San Rafael, Mendoza
+SUPERFICIE: 150 m2
+AÑO: 2019
+
+DESCRIPCIÓN
+===========
+En Casa Delacroix, la arquitectura se revela como una manifestación de la esencia misma de los espacios. Las vigas, serenas y contundentes, delinean un recorrido que fusiona lo interior, lo intermedio y lo exterior en una danza armoniosa.
+
+Esta obra se erige como una exploración de las posibilidades de la arquitectura para crear experiencias. Los espacios se entretejen en una narrativa visual que desdibuja las fronteras entre lo que está dentro y lo que está fuera.
+
+Las líneas de visión se convierten en un juego de perspectivas, donde el usuario se adentra en un viaje a través de las capas de la casa. Los llenos y vacíos creados por la retícula de vigas permiten que la luz natural cree juegos de claroscuro en muros y solados, como si fuera una pintura que da vida a la arquitectura.
+
+San Rafael, Mendoza | 150 m2 | 2019
+
+Las vigas definen el perímetro a construir, a partir de ese momento la obra se resuelve como una conjunción de espacios interiores, intermedios y exteriores que interactúan bajo ese límite.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2894 | CASA DELACROIX | attachments=16 | urls=0
+
+IMÁGENES
+========
+01. CASADELACROIX.png <- 2023/05/CASADELACROIX.png [featured]
+02. 01.jpg <- 2023/08/01.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 01-3.jpg <- 2023/08/01-3.jpg [modula:2894]
+05. 02-1.jpg <- 2023/08/02-1.jpg [modula:2894]
+06. 03-1.jpg <- 2023/08/03-1.jpg [modula:2894]
+07. 04.jpg <- 2023/08/04.jpg [modula:2894]
+08. 05.jpg <- 2023/08/05.jpg [modula:2894]
+09. 06.jpg <- 2023/08/06.jpg [modula:2894]
+10. 07.jpg <- 2023/08/07.jpg [modula:2894]
+11. 08.jpg <- 2023/08/08.jpg [modula:2894]
+12. 09-1.jpg <- 2023/08/09-1.jpg [modula:2894]
+13. 10.jpg <- 2023/08/10.jpg [modula:2894]
+14. 11.jpg <- 2023/08/11.jpg [modula:2894]
+15. 12-1.jpg <- 2023/08/12-1.jpg [modula:2894]
+16. 13.jpg <- 2023/08/13.jpg [modula:2894]
+17. 14.jpg <- 2023/08/14.jpg [modula:2894]
+18. 15.jpg <- 2023/08/15.jpg [modula:2894]
+19. architect2.png <- 2016/04/architect2.png [modula:2894]
+20. 00-1.jpg <- 2014/04/00-1.jpg [attachment-parent]
+
+FALTANTES
+=========
+- 2014/04/home_architect2_slider4.jpg

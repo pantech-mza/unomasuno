@@ -1,0 +1,38 @@
+NOMBRE: CASA WM
+SLUG: casa-wm
+WORDPRESS ID: 2327
+UBICACIÓN: General Alvear, Mendoza
+SUPERFICIE: 300m2
+AÑO: 2016
+
+DESCRIPCIÓN
+===========
+General Alvear, Mendoza | 300m2 | 2016
+
+En una gran esquina, un gran volumen conforma un sólido límite entre la calle y el parque. Este se fisura construye y permite la conexión entre el exterior y el interior. El límite entre las partes queda definido por la construcción de muros de piedra que evidencian dicha ruptura. La galería, como elemento vinculante, sostiene la sutil relación entre las partes y el espacio intermedio entre la casa y el jardín. 
+
+Una de las incisuras se convierte en acceso y divide la casa en dos ámbitos principales, uno público y uno privado; además, socava el suelo y crea la cava. 
+
+En el proyecto los ambientes principales tienen una estrecha relación con el jardín y el norte, mientras que al sur los servicios construyen el límite con la calle.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2928 | CASA WM | attachments=9 | urls=0
+
+IMÁGENES
+========
+01. CASAWM.png <- 2023/05/CASAWM.png [featured]
+02. 4-1.jpg <- 2023/08/4-1.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 2-1.jpg <- 2023/08/2-1.jpg [modula:2928]
+05. 3-1.jpg <- 2023/08/3-1.jpg [modula:2928]
+06. 4.jpg <- 2023/08/4.jpg [modula:2928]
+07. 5.jpg <- 2023/08/5.jpg [modula:2928]
+08. architect2.png <- 2016/04/architect2.png [modula:2928]
+09. Frente-noche.jpg <- 2023/08/Frente-noche.jpg [modula:2928]
+10. retina-architect2.png <- 2016/04/retina-architect2.png [modula:2928]
+11. WM1-scaled.jpg <- 2023/08/WM1-scaled.jpg [modula:2928]
+12. WM2-scaled.jpg <- 2023/08/WM2-scaled.jpg [modula:2928]
+13. 426db2_d7d681b865b64df58e34c6336ec40146mv2.jpg <- 2023/07/426db2_d7d681b865b64df58e34c6336ec40146mv2.jpg [attachment-parent]

@@ -1,0 +1,45 @@
+NOMBRE: CASA SP
+SLUG: casa-sp
+WORDPRESS ID: 2282
+UBICACIÓN: Luján de Cuyo Mendoza
+SUPERFICIE: 150 m2
+AÑO: 2020
+
+DESCRIPCIÓN
+===========
+Luján de Cuyo Mendoza | 150 m2 | 2020
+
+Sobre la ladera de un cerro un volumen se apoya, no rompe la pendiente, no cambia el sitio, solo se apoya, adquiere las dimensiones necesarias para ocupar la menor porción de suelo posible y sobre el se posa un segundo volumen más pequeño. 
+
+Ambos se abren en una de sus caras, la que mira al vacío, la que contempla contempla el paisaje plagado de árboles que nos dicen que esta tierra ya no es un desierto.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2810 | CASA SP | attachments=19 | urls=0
+
+IMÁGENES
+========
+01. CASASP.png <- 2023/05/CASASP.png [featured]
+02. 00-SP-11-ARQ-©Luis-Abba-50-scaled.jpg <- 2023/08/00-SP-11-ARQ-©Luis-Abba-50-scaled.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 01-SP-11-ARQ-©Luis-Abba-13-scaled.jpg <- 2023/08/01-SP-11-ARQ-©Luis-Abba-13-scaled.jpg [modula:2810]
+05. 01-SP-11-ARQ-©Luis-Abba-19-scaled.jpg <- 2023/08/01-SP-11-ARQ-©Luis-Abba-19-scaled.jpg [modula:2810]
+06. 01-SP-11-ARQ-©Luis-Abba-21-scaled.jpg <- 2023/08/01-SP-11-ARQ-©Luis-Abba-21-scaled.jpg [modula:2810]
+07. 01-SP-11-ARQ-©Luis-Abba-24-scaled.jpg <- 2023/08/01-SP-11-ARQ-©Luis-Abba-24-scaled.jpg [modula:2810]
+08. 01-SP-11-ARQ-©Luis-Abba-37-scaled.jpg <- 2023/08/01-SP-11-ARQ-©Luis-Abba-37-scaled.jpg [modula:2810]
+09. 01-SP-11-ARQ-©Luis-Abba-51-scaled.jpg <- 2023/08/01-SP-11-ARQ-©Luis-Abba-51-scaled.jpg [modula:2810]
+10. 01-SP-11-ARQ-©Luis-Abba-56-scaled.jpg <- 2023/08/01-SP-11-ARQ-©Luis-Abba-56-scaled.jpg [modula:2810]
+11. 01-SP-11-ARQ-©Luis-Abba-6-scaled.jpg <- 2023/08/01-SP-11-ARQ-©Luis-Abba-6-scaled.jpg [modula:2810]
+12. 01-SP-11-ARQ-©Luis-Abba-9-scaled.jpg <- 2023/08/01-SP-11-ARQ-©Luis-Abba-9-scaled.jpg [modula:2810]
+13. 01_page-0001-1-scaled.jpg <- 2023/08/01_page-0001-1-scaled.jpg [modula:2810]
+14. 1-SP-11-ARQ-©Luis-Abba-32-scaled.jpg <- 2023/08/1-SP-11-ARQ-©Luis-Abba-32-scaled.jpg [modula:2810]
+15. A0._page-0001-scaled.jpg <- 2023/08/A0._page-0001-scaled.jpg [modula:2810]
+16. A1_page-0001-scaled.jpg <- 2023/08/A1_page-0001-scaled.jpg [modula:2810]
+17. A2_page-0001-scaled.jpg <- 2023/08/A2_page-0001-scaled.jpg [modula:2810]
+18. A3_page-0001-scaled.jpg <- 2023/08/A3_page-0001-scaled.jpg [modula:2810]
+19. A4_page-0001-scaled.jpg <- 2023/08/A4_page-0001-scaled.jpg [modula:2810]
+20. architect2.png <- 2016/04/architect2.png [modula:2810]
+21. home_architect2_sectionbg1.jpg <- 2016/04/home_architect2_sectionbg1.jpg [modula:2810]
+22. home_architect2_sep.png <- 2016/04/home_architect2_sep.png [modula:2810]

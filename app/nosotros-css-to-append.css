@@ -1,0 +1,54 @@
+/* PEGAR AL FINAL DE app/globals.css */
+.about-original-page{width:100%;background:#fff}
+.about-original-intro{padding:54px 0 62px;background:#fff}
+.about-original-intro-inner{
+  width:min(1100px,calc(100% - 64px));margin:0 auto;
+  display:grid;grid-template-columns:245px minmax(0,1fr);
+  gap:82px;align-items:start
+}
+.about-original-badge-col{border-right:1px solid #d8d8d8;padding-right:32px}
+.about-original-badge{
+  display:inline-flex;align-items:center;justify-content:center;
+  background:#c7b18f;color:#fff;min-height:26px;padding:6px 12px;
+  font-size:10px;font-weight:700;letter-spacing:.15em
+}
+.about-original-mark{
+  width:100%;aspect-ratio:1;margin-top:27px;background:#050505;color:#fff;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:7px;font-size:34px;line-height:1;font-weight:300;letter-spacing:.16em
+}
+.about-original-copy{padding-top:4px}
+.about-original-copy h1{margin:0 0 26px;color:#071327;font-size:26px;line-height:1.1;font-weight:600}
+.about-original-copy p{max-width:750px;margin:0 0 15px;color:#747b86;font-size:13px;line-height:1.48}
+.about-original-copy .about-original-lead{color:#071327;font-weight:600;margin-bottom:27px}
+
+.about-original-team{
+  padding:58px 0 74px;
+  background:radial-gradient(circle at 28% 20%,rgba(255,255,255,.95),rgba(245,245,245,.8)),#f5f5f5
+}
+.about-original-team-inner{
+  width:min(1100px,calc(100% - 64px));margin:0 auto;
+  display:grid;grid-template-columns:175px minmax(0,1fr);gap:40px;align-items:start
+}
+.about-original-team-label-wrap{
+  border-right:1px solid #d8d8d8;min-height:330px;padding-right:25px;
+  display:flex;justify-content:flex-end;padding-top:55px
+}
+.about-original-people{
+  display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:58px;max-width:720px
+}
+.about-original-person-photo{
+  width:100%;aspect-ratio:1;object-fit:cover;display:block;filter:grayscale(1);margin:0 0 14px
+}
+.about-original-person h2{margin:0 0 6px;color:#071327;font-size:18px;line-height:1.1;font-weight:600}
+.about-original-role{margin-bottom:13px;color:#303744;font-size:10px;font-weight:700;text-transform:uppercase}
+.about-original-person p{margin:0 0 5px;color:#737b86;font-size:11px;line-height:1.43}
+
+@media(max-width:700px){
+  .about-original-intro{padding:38px 0 48px}
+  .about-original-intro-inner{width:calc(100% - 32px);grid-template-columns:1fr;gap:32px}
+  .about-original-badge-col{border-right:0;padding-right:0;max-width:220px}
+  .about-original-team-inner{width:calc(100% - 32px);grid-template-columns:1fr}
+  .about-original-team-label-wrap{min-height:auto;border-right:0;justify-content:flex-start;padding:0}
+  .about-original-people{grid-template-columns:1fr;max-width:460px}
+}

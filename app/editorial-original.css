@@ -1,0 +1,315 @@
+/* =========================================================
+   MENCIONES + ACADEMIA — réplica del layout original
+   ========================================================= */
+
+.original-editorial-page{
+  background:#fff;
+  padding:0;
+}
+
+.original-editorial-list{
+  width:100%;
+}
+
+.original-editorial-row{
+  width:min(1500px, calc(100% - 80px));
+  margin:0 auto;
+  min-height:520px;
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  align-items:center;
+  gap:70px;
+  padding:56px 0;
+}
+
+.original-editorial-row.text-left .original-editorial-copy{
+  order:1;
+}
+.original-editorial-row.text-left .original-editorial-visual{
+  order:2;
+}
+.original-editorial-row.image-left .original-editorial-visual{
+  order:1;
+}
+.original-editorial-row.image-left .original-editorial-copy{
+  order:2;
+}
+
+.original-editorial-copy{
+  text-align:center;
+  max-width:640px;
+  width:100%;
+  margin:0 auto;
+}
+
+.original-editorial-copy h2{
+  margin:0 0 16px;
+  font-size:31px;
+  line-height:1.05;
+  font-weight:400;
+  letter-spacing:-.02em;
+}
+
+.original-editorial-subtitle{
+  font-size:19px;
+  line-height:1.25;
+  margin-bottom:16px;
+  color:#071327;
+}
+
+.original-editorial-body{
+  font-size:14px;
+  line-height:1.45;
+  color:#777f8d;
+  max-width:580px;
+  margin:0 auto;
+}
+
+.original-editorial-body p{
+  margin:0 0 8px;
+}
+
+.original-editorial-visual{
+  width:100%;
+  min-height:330px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.original-editorial-visual img{
+  display:block;
+  width:auto;
+  height:auto;
+  max-width:100%;
+  max-height:600px;
+  object-fit:contain;
+}
+
+.original-actions{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:18px;
+  margin-top:32px;
+}
+
+.original-action-button{
+  min-width:166px;
+  text-align:center;
+  padding:13px 24px;
+  background:#dedede;
+  color:#777;
+  font-size:15px;
+  transition:background .25s ease,color .25s ease;
+}
+
+.original-action-button:hover{
+  background:#cfcfcf;
+  color:#555;
+}
+
+/* Academia tiene más aire vertical como el original */
+.original-editorial-list.academia .original-editorial-row{
+  min-height:560px;
+  padding-top:72px;
+  padding-bottom:72px;
+}
+
+/* =========================================================
+   NOSOTROS — réplica del layout original
+   ========================================================= */
+
+.original-about-page{
+  background:#fff;
+}
+
+.original-about-intro{
+  padding:78px 0 88px;
+  background:#fff;
+}
+
+.original-about-inner{
+  width:min(1120px, calc(100% - 56px));
+  margin:0 auto;
+  display:grid;
+  grid-template-columns:250px 1fr;
+  gap:82px;
+  align-items:start;
+}
+
+.original-about-label-column{
+  border-right:1px solid #d5d5d5;
+  padding-right:32px;
+}
+
+.original-about-label{
+  display:inline-block;
+  background:#c7b18f;
+  color:#fff;
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:.16em;
+  padding:8px 12px;
+  margin-bottom:28px;
+}
+
+.original-about-logo-block{
+  aspect-ratio:1;
+  width:100%;
+  background:#050505;
+  color:#fff;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  font-size:35px;
+  line-height:1.23;
+  letter-spacing:.12em;
+  font-weight:300;
+}
+
+.original-about-copy h1{
+  margin:0 0 28px;
+  font-size:28px;
+  line-height:1.1;
+  font-weight:600;
+}
+
+.original-about-copy .lead{
+  font-weight:600;
+  color:#071327;
+  margin-bottom:28px;
+}
+
+.original-about-copy p{
+  font-size:13px;
+  line-height:1.52;
+  color:#6f7680;
+  margin:0 0 16px;
+}
+
+.original-team-section{
+  padding:72px 0 84px;
+  background:
+    radial-gradient(circle at 30% 40%, rgba(255,255,255,.9), rgba(246,246,246,.8)),
+    #f5f5f5;
+}
+
+.original-team-inner{
+  width:min(1120px, calc(100% - 56px));
+  margin:0 auto;
+  display:grid;
+  grid-template-columns:170px 1fr;
+  gap:44px;
+  align-items:start;
+}
+
+.original-team-label{
+  align-self:start;
+  justify-self:end;
+  background:#c7b18f;
+  color:#fff;
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:.16em;
+  padding:8px 12px;
+  margin-top:58px;
+}
+
+.original-team-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:58px;
+}
+
+.original-person-photo{
+  width:100%;
+  aspect-ratio:1;
+  object-fit:cover;
+  filter:grayscale(1);
+  margin-bottom:15px;
+}
+
+.original-person h2{
+  margin:0 0 6px;
+  font-size:18px;
+  font-weight:600;
+}
+
+.original-person .role{
+  font-size:10px;
+  font-weight:700;
+  text-transform:uppercase;
+  margin-bottom:14px;
+}
+
+.original-person p{
+  color:#6f7680;
+  font-size:12px;
+  line-height:1.48;
+  margin:0 0 4px;
+}
+
+@media(max-width:980px){
+  .original-editorial-row{
+    width:min(100% - 36px, 900px);
+    grid-template-columns:1fr;
+    gap:30px;
+    min-height:auto;
+    padding:52px 0;
+  }
+
+  .original-editorial-row.text-left .original-editorial-copy,
+  .original-editorial-row.image-left .original-editorial-copy{
+    order:1;
+  }
+
+  .original-editorial-row.text-left .original-editorial-visual,
+  .original-editorial-row.image-left .original-editorial-visual{
+    order:2;
+  }
+
+  .original-about-inner{
+    grid-template-columns:1fr;
+    gap:38px;
+  }
+
+  .original-about-label-column{
+    border-right:0;
+    padding-right:0;
+    max-width:260px;
+  }
+
+  .original-team-inner{
+    grid-template-columns:1fr;
+  }
+
+  .original-team-label{
+    justify-self:start;
+    margin-top:0;
+  }
+}
+
+@media(max-width:620px){
+  .original-editorial-row{
+    width:calc(100% - 28px);
+  }
+
+  .original-editorial-copy h2{
+    font-size:24px;
+  }
+
+  .original-editorial-subtitle{
+    font-size:16px;
+  }
+
+  .original-editorial-visual{
+    min-height:220px;
+  }
+
+  .original-team-grid{
+    grid-template-columns:1fr;
+    gap:46px;
+  }
+}

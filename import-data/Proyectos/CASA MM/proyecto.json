@@ -1,0 +1,269 @@
+{
+  "wordpress_id": 2361,
+  "title": "CASA MM",
+  "slug": "casa-mm",
+  "status": "publish",
+  "date": "2023-05-05 02:34:16",
+  "modified": "2023-09-27 18:46:24",
+  "menu_order": 0,
+  "location": "Guaymallén, Mendoza",
+  "area": "108 m2",
+  "year": "2013",
+  "description": "Guaymallén, Mendoza | 108 m2 | 2013\n\nEl proyecto desde su origen plantea un partido \"poco frecuente\" para una casa de barrio, el bloque de dormitorios se encuentra al frente de la propiedad, mientras que la zona diurna se esconde hacia el interior. La vivienda en su diseño busca el norte casi obsesivamente, por eso la disposición. Se apoya sobre uno de sus laterales dejando un retiro en el otro, el retiro es patio, es acceso, es cochera y galería. Un continuo de piso calado que acompaña el recorrido, un constante fluir en el andar que remata en un árbol, bisagra con la galería principal que se orienta al norte. \n\nLa casa es una gran galería per se, y todos los ambientes se abren a ella, haciendo del acceso principal simplemente una horadación más, destacando de este modo el espacio como tal.\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2984,
+      "title": "CASA MM",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        42,
+        44,
+        48,
+        2461,
+        2985,
+        2986,
+        2987,
+        2988,
+        2990,
+        2991,
+        2992,
+        2993,
+        2994,
+        2995,
+        2996,
+        2997
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "CASAMM.png",
+      "original_relative_path": "2023/05/CASAMM.png",
+      "sources": [
+        "attachment-parent",
+        "featured"
+      ]
+    },
+    {
+      "file": "426db2_adfa890c92f3432fae7a9df79540fb34mv2.jpg",
+      "original_relative_path": "2023/08/426db2_adfa890c92f3432fae7a9df79540fb34mv2.jpg",
+      "sources": [
+        "betheme-builder",
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "426db2_00f9175b386f408e83261b9adc127ef7mv2_d_3488_1781_s_2.jpg",
+      "original_relative_path": "2023/08/426db2_00f9175b386f408e83261b9adc127ef7mv2_d_3488_1781_s_2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_2583030489b646fb90133936f7a81bb9mv2.jpg",
+      "original_relative_path": "2023/08/426db2_2583030489b646fb90133936f7a81bb9mv2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_3af259dd46374ca1af831c3ea79da3d3mv2.jpg",
+      "original_relative_path": "2023/08/426db2_3af259dd46374ca1af831c3ea79da3d3mv2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_8fe3d7d0086c44f79a14247a622fe433mv2_d_3489_1598_s_2.jpg",
+      "original_relative_path": "2023/08/426db2_8fe3d7d0086c44f79a14247a622fe433mv2_d_3489_1598_s_2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_9a848a450d22444b9a429bc265fdb3edmv2.jpg",
+      "original_relative_path": "2023/08/426db2_9a848a450d22444b9a429bc265fdb3edmv2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_aeff45714b3143cf9212fd1f3288e550mv2.jpg",
+      "original_relative_path": "2023/08/426db2_aeff45714b3143cf9212fd1f3288e550mv2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_b230695ff3f747859153a5a6a6750eaemv2.jpg",
+      "original_relative_path": "2023/08/426db2_b230695ff3f747859153a5a6a6750eaemv2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_c86554675af949d2836404413ebb6096mv2_d_3442_2461_s_4_2.jpg",
+      "original_relative_path": "2023/08/426db2_c86554675af949d2836404413ebb6096mv2_d_3442_2461_s_4_2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_d7388b79f8a14aa4ad48dd3615bad55fmv2.jpg",
+      "original_relative_path": "2023/08/426db2_d7388b79f8a14aa4ad48dd3615bad55fmv2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_de3103a3e1594d89829c470538f8099dmv2.jpg",
+      "original_relative_path": "2023/08/426db2_de3103a3e1594d89829c470538f8099dmv2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_fe1ab40313a0421f9b9c972c81021401mv2.jpg",
+      "original_relative_path": "2023/08/426db2_fe1ab40313a0421f9b9c972c81021401mv2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "home_architect2_contentslider_icon1.png",
+      "original_relative_path": "2016/04/home_architect2_contentslider_icon1.png",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "home_architect2_footer_bg-1.jpg",
+      "original_relative_path": "2016/04/home_architect2_footer_bg-1.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "home_architect2_offerslider2.jpg",
+      "original_relative_path": "2016/04/home_architect2_offerslider2.jpg",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "UMU_MARCA-02-1.png",
+      "original_relative_path": "2023/07/UMU_MARCA-02-1.png",
+      "sources": [
+        "modula:2984"
+      ]
+    },
+    {
+      "file": "426db2_00743a53aa8c4531b0e19e00fc29220ef000.jpg",
+      "original_relative_path": "2023/07/426db2_00743a53aa8c4531b0e19e00fc29220ef000.jpg",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASA-UP.png",
+      "original_relative_path": "2023/07/CASA-UP.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASADELACROIX.png",
+      "original_relative_path": "2023/05/CASADELACROIX.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASAF-1.png",
+      "original_relative_path": "2023/05/CASAF-1.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASAPI.png",
+      "original_relative_path": "2023/05/CASAPI.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASASP.png",
+      "original_relative_path": "2023/05/CASASP.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASATAPIZ.png",
+      "original_relative_path": "2023/05/CASATAPIZ.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASAUP-1.png",
+      "original_relative_path": "2023/05/CASAUP-1.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASAWM.png",
+      "original_relative_path": "2023/05/CASAWM.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASAYERI.png",
+      "original_relative_path": "2023/05/CASAYERI.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "CASAZEN.png",
+      "original_relative_path": "2023/05/CASAZEN.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "LACASAYELPIANO.png",
+      "original_relative_path": "2023/05/LACASAYELPIANO.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    },
+    {
+      "file": "OFICINAF.png",
+      "original_relative_path": "2023/05/OFICINAF.png",
+      "sources": [
+        "attachment-parent"
+      ]
+    }
+  ],
+  "missing_images": []
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "wordpress_id": 2190,
+    "title": "CASA DELACROIX",
+    "slug": "casa-delacroix",
+    "folder": "Proyectos/CASA DELACROIX",
+    "location": "San Rafael, Mendoza",
+    "area": "150 m2",
+    "year": "2019",
+    "image_count": 20,
+    "missing_image_count": 1,
+    "modula_ids": [
+      2894
+    ]
+  },
+  {
+    "wordpress_id": 2390,
+    "title": "CASA F",
+    "slug": "casa-f",
+    "folder": "Proyectos/CASA F",
+    "location": "General Alvear, Mendoza",
+    "area": "180 m2",
+    "year": "2016",
+    "image_count": 31,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2823
+    ]
+  },
+  {
+    "wordpress_id": 2361,
+    "title": "CASA MM",
+    "slug": "casa-mm",
+    "folder": "Proyectos/CASA MM",
+    "location": "Guaymallén, Mendoza",
+    "area": "108 m2",
+    "year": "2013",
+    "image_count": 32,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2984
+    ]
+  },
+  {
+    "wordpress_id": 2299,
+    "title": "CASA PI",
+    "slug": "casa-pi",
+    "folder": "Proyectos/CASA PI",
+    "location": "Tunuyán, Mendoza",
+    "area": "250 m2",
+    "year": "2018",
+    "image_count": 21,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2794
+    ]
+  },
+  {
+    "wordpress_id": 2293,
+    "title": "CASA QC",
+    "slug": "casa-qc",
+    "folder": "Proyectos/CASA QC",
+    "location": "Luján de Cuyo Mendoza",
+    "area": "150 m2",
+    "year": "2020",
+    "image_count": 18,
+    "missing_image_count": 1,
+    "modula_ids": [
+      2882
+    ]
+  },
+  {
+    "wordpress_id": 2881,
+    "title": "CASA RINGO",
+    "slug": "casa-ringo",
+    "folder": "Proyectos/CASA RINGO",
+    "location": "General Alvear, Mendoza",
+    "area": "180 m2",
+    "year": "2016",
+    "image_count": 21,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2866
+    ]
+  },
+  {
+    "wordpress_id": 2282,
+    "title": "CASA SP",
+    "slug": "casa-sp",
+    "folder": "Proyectos/CASA SP",
+    "location": "Luján de Cuyo Mendoza",
+    "area": "150 m2",
+    "year": "2020",
+    "image_count": 22,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2810
+    ]
+  },
+  {
+    "wordpress_id": 2306,
+    "title": "CASA TAPIZ",
+    "slug": "casa-tapiz",
+    "folder": "Proyectos/CASA TAPIZ",
+    "location": "",
+    "area": "",
+    "year": "",
+    "image_count": 14,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2911
+    ]
+  },
+  {
+    "wordpress_id": 2320,
+    "title": "CASA UP",
+    "slug": "casa-up",
+    "folder": "Proyectos/CASA UP",
+    "location": "GENERAL ALVEAR, MENDOZA",
+    "area": "250 M2",
+    "year": "2018",
+    "image_count": 25,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2835
+    ]
+  },
+  {
+    "wordpress_id": 2327,
+    "title": "CASA WM",
+    "slug": "casa-wm",
+    "folder": "Proyectos/CASA WM",
+    "location": "General Alvear, Mendoza",
+    "area": "300m2",
+    "year": "2016",
+    "image_count": 13,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2928
+    ]
+  },
+  {
+    "wordpress_id": 2351,
+    "title": "CASA YERI",
+    "slug": "casa-yeri",
+    "folder": "Proyectos/CASA YERI",
+    "location": "",
+    "area": "",
+    "year": "",
+    "image_count": 16,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2974
+    ]
+  },
+  {
+    "wordpress_id": 2337,
+    "title": "CASA ZEN",
+    "slug": "casa-zen",
+    "folder": "Proyectos/CASA ZEN",
+    "location": "Mendoza",
+    "area": "100 m2",
+    "year": "2018",
+    "image_count": 19,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2936
+    ]
+  },
+  {
+    "wordpress_id": 2383,
+    "title": "LA CASA Y EL PIANO",
+    "slug": "la-casa-y-el-piano",
+    "folder": "Proyectos/LA CASA Y EL PIANO",
+    "location": "Godoy Cruz, Mendoza",
+    "area": "108 m2",
+    "year": "2015",
+    "image_count": 12,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2922
+    ]
+  },
+  {
+    "wordpress_id": 2526,
+    "title": "MUSEO MS",
+    "slug": "museo-ms",
+    "folder": "Proyectos/MUSEO MS",
+    "location": "General Alvear, Mendoza",
+    "area": "180 m2",
+    "year": "2016",
+    "image_count": 27,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2777
+    ]
+  },
+  {
+    "wordpress_id": 2375,
+    "title": "OFICINA F",
+    "slug": "oficina-f",
+    "folder": "Proyectos/OFICINA F",
+    "location": "General Alvear, Mendoza",
+    "area": "80 m2",
+    "year": "2013",
+    "image_count": 17,
+    "missing_image_count": 0,
+    "modula_ids": [
+      2850
+    ]
+  },
+  {
+    "wordpress_id": 2865,
+    "title": "PLANTA MIHOH",
+    "slug": "planta-mihoh",
+    "folder": "Proyectos/PLANTA MIHOH",
+    "location": "General Alvear, Mendoza",
+    "area": "180 m2",
+    "year": "2016",
+    "image_count": 13,
+    "missing_image_count": 1,
+    "modula_ids": [
+      2860
+    ]
+  }
+]

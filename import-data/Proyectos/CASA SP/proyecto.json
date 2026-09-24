@@ -1,0 +1,199 @@
+{
+  "wordpress_id": 2282,
+  "title": "CASA SP",
+  "slug": "casa-sp",
+  "status": "publish",
+  "date": "2023-07-10 01:35:27",
+  "modified": "2023-09-26 19:02:25",
+  "menu_order": 0,
+  "location": "Luján de Cuyo Mendoza",
+  "area": "150 m2",
+  "year": "2020",
+  "description": "Luján de Cuyo Mendoza | 150 m2 | 2020\n\nSobre la ladera de un cerro un volumen se apoya, no rompe la pendiente, no cambia el sitio, solo se apoya, adquiere las dimensiones necesarias para ocupar la menor porción de suelo posible y sobre el se posa un segundo volumen más pequeño. \n\nAmbos se abren en una de sus caras, la que mira al vacío, la que contempla contempla el paisaje plagado de árboles que nos dicen que esta tierra ya no es un desierto.\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2810,
+      "title": "CASA SP",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        24,
+        51,
+        2812,
+        2813,
+        2814,
+        2815,
+        2816,
+        2817,
+        2818,
+        2819,
+        2820,
+        2821,
+        2822,
+        2961,
+        2962,
+        2963,
+        2964,
+        2965
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "CASASP.png",
+      "original_relative_path": "2023/05/CASASP.png",
+      "sources": [
+        "featured"
+      ]
+    },
+    {
+      "file": "00-SP-11-ARQ-©Luis-Abba-50-scaled.jpg",
+      "original_relative_path": "2023/08/00-SP-11-ARQ-©Luis-Abba-50-scaled.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "01-SP-11-ARQ-©Luis-Abba-13-scaled.jpg",
+      "original_relative_path": "2023/08/01-SP-11-ARQ-©Luis-Abba-13-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "01-SP-11-ARQ-©Luis-Abba-19-scaled.jpg",
+      "original_relative_path": "2023/08/01-SP-11-ARQ-©Luis-Abba-19-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "01-SP-11-ARQ-©Luis-Abba-21-scaled.jpg",
+      "original_relative_path": "2023/08/01-SP-11-ARQ-©Luis-Abba-21-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "01-SP-11-ARQ-©Luis-Abba-24-scaled.jpg",
+      "original_relative_path": "2023/08/01-SP-11-ARQ-©Luis-Abba-24-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "01-SP-11-ARQ-©Luis-Abba-37-scaled.jpg",
+      "original_relative_path": "2023/08/01-SP-11-ARQ-©Luis-Abba-37-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "01-SP-11-ARQ-©Luis-Abba-51-scaled.jpg",
+      "original_relative_path": "2023/08/01-SP-11-ARQ-©Luis-Abba-51-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "01-SP-11-ARQ-©Luis-Abba-56-scaled.jpg",
+      "original_relative_path": "2023/08/01-SP-11-ARQ-©Luis-Abba-56-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "01-SP-11-ARQ-©Luis-Abba-6-scaled.jpg",
+      "original_relative_path": "2023/08/01-SP-11-ARQ-©Luis-Abba-6-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "01-SP-11-ARQ-©Luis-Abba-9-scaled.jpg",
+      "original_relative_path": "2023/08/01-SP-11-ARQ-©Luis-Abba-9-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "01_page-0001-1-scaled.jpg",
+      "original_relative_path": "2023/08/01_page-0001-1-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "1-SP-11-ARQ-©Luis-Abba-32-scaled.jpg",
+      "original_relative_path": "2023/08/1-SP-11-ARQ-©Luis-Abba-32-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "A0._page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/A0._page-0001-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "A1_page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/A1_page-0001-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "A2_page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/A2_page-0001-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "A3_page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/A3_page-0001-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "A4_page-0001-scaled.jpg",
+      "original_relative_path": "2023/08/A4_page-0001-scaled.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "home_architect2_sectionbg1.jpg",
+      "original_relative_path": "2016/04/home_architect2_sectionbg1.jpg",
+      "sources": [
+        "modula:2810"
+      ]
+    },
+    {
+      "file": "home_architect2_sep.png",
+      "original_relative_path": "2016/04/home_architect2_sep.png",
+      "sources": [
+        "modula:2810"
+      ]
+    }
+  ],
+  "missing_images": []
+}

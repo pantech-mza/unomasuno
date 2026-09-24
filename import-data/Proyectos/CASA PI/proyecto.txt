@@ -1,0 +1,44 @@
+NOMBRE: CASA PI
+SLUG: casa-pi
+WORDPRESS ID: 2299
+UBICACIÓN: Tunuyán, Mendoza
+SUPERFICIE: 250 m2
+AÑO: 2018
+
+DESCRIPCIÓN
+===========
+Tunuyán, Mendoza | 250 m2 | 2018
+
+Casa PI es el resultado de una rigurosa organización y diseño geométrico que define las líneas principales sobre las cuales se estructura la obrapara su construcción. Estas líneas plantean los límites entre los diferentes espacios. Las vigas de entrepiso se evidencian en la casa tanto interior como exteriormente, como un testimonio construido del proceso de pensamiento. 
+
+En este damero se definen llenos y vacíos que se entrelazan en una suerte de tablero de ajedrez, en el que siempre un espacio interior está acompañado de uno exterior. De este modo, desde el acceso hasta la expansión se convive en constante contacto con el patio. ​
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2794 | CASA PI | attachments=17 | urls=0
+
+IMÁGENES
+========
+01. CASAPI.png <- 2023/05/CASAPI.png [featured]
+02. 00-PI-11-ARQ-©Luis-Abba-3-scaled.jpg <- 2023/07/00-PI-11-ARQ-©Luis-Abba-3-scaled.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 01-CASA-PI-scaled.jpg <- 2023/08/01-CASA-PI-scaled.jpg [modula:2794]
+05. 01-PI-11-ARQ-©Luis-Abba-11-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-11-scaled.jpg [modula:2794]
+06. 01-PI-11-ARQ-©Luis-Abba-15-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-15-scaled.jpg [modula:2794]
+07. 01-PI-11-ARQ-©Luis-Abba-16-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-16-scaled.jpg [modula:2794]
+08. 01-PI-11-ARQ-©Luis-Abba-2-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-2-scaled.jpg [modula:2794]
+09. 01-PI-11-ARQ-©Luis-Abba-23-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-23-scaled.jpg [modula:2794]
+10. 01-PI-11-ARQ-©Luis-Abba-31-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-31-scaled.jpg [modula:2794]
+11. 01-PI-11-ARQ-©Luis-Abba-53-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-53-scaled.jpg [modula:2794]
+12. 01-PI-11-ARQ-©Luis-Abba-57-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-57-scaled.jpg [modula:2794]
+13. 01-PI-11-ARQ-©Luis-Abba-62-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-62-scaled.jpg [modula:2794]
+14. 01-PI-11-ARQ-©Luis-Abba-65-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-65-scaled.jpg [modula:2794]
+15. 01-PI-11-ARQ-©Luis-Abba-8-scaled.jpg <- 2023/08/01-PI-11-ARQ-©Luis-Abba-8-scaled.jpg [modula:2794]
+16. 02-CASA-PI-scaled.jpg <- 2023/08/02-CASA-PI-scaled.jpg [modula:2794]
+17. 03-CASA-PI-scaled.jpg <- 2023/08/03-CASA-PI-scaled.jpg [modula:2794]
+18. architect2.png <- 2016/04/architect2.png [modula:2794]
+19. AXO-CAD_page-0001.jpg <- 2023/08/AXO-CAD_page-0001.jpg [modula:2794]
+20. home_architect2_slider_pic.png <- 2016/04/home_architect2_slider_pic.png [modula:2794]
+21. 426db2_89f760ab0df94e1588639587bc62dde9f000.jpg <- 2023/07/426db2_89f760ab0df94e1588639587bc62dde9f000.jpg [attachment-parent]

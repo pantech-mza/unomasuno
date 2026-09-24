@@ -1,0 +1,126 @@
+{
+  "wordpress_id": 2327,
+  "title": "CASA WM",
+  "slug": "casa-wm",
+  "status": "publish",
+  "date": "2023-06-06 02:15:29",
+  "modified": "2023-09-27 00:49:39",
+  "menu_order": 0,
+  "location": "General Alvear, Mendoza",
+  "area": "300m2",
+  "year": "2016",
+  "description": "General Alvear, Mendoza | 300m2 | 2016\n\nEn una gran esquina, un gran volumen conforma un sólido límite entre la calle y el parque. Este se fisura construye y permite la conexión entre el exterior y el interior. El límite entre las partes queda definido por la construcción de muros de piedra que evidencian dicha ruptura. La galería, como elemento vinculante, sostiene la sutil relación entre las partes y el espacio intermedio entre la casa y el jardín. \n\nUna de las incisuras se convierte en acceso y divide la casa en dos ámbitos principales, uno público y uno privado; además, socava el suelo y crea la cava. \n\nEn el proyecto los ambientes principales tienen una estrecha relación con el jardín y el norte, mientras que al sur los servicios construyen el límite con la calle.\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2928,
+      "title": "CASA WM",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        22,
+        2929,
+        2930,
+        2931,
+        2932,
+        2933,
+        2934,
+        2935
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "CASAWM.png",
+      "original_relative_path": "2023/05/CASAWM.png",
+      "sources": [
+        "featured"
+      ]
+    },
+    {
+      "file": "4-1.jpg",
+      "original_relative_path": "2023/08/4-1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "2-1.jpg",
+      "original_relative_path": "2023/08/2-1.jpg",
+      "sources": [
+        "modula:2928"
+      ]
+    },
+    {
+      "file": "3-1.jpg",
+      "original_relative_path": "2023/08/3-1.jpg",
+      "sources": [
+        "modula:2928"
+      ]
+    },
+    {
+      "file": "4.jpg",
+      "original_relative_path": "2023/08/4.jpg",
+      "sources": [
+        "modula:2928"
+      ]
+    },
+    {
+      "file": "5.jpg",
+      "original_relative_path": "2023/08/5.jpg",
+      "sources": [
+        "modula:2928"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2928"
+      ]
+    },
+    {
+      "file": "Frente-noche.jpg",
+      "original_relative_path": "2023/08/Frente-noche.jpg",
+      "sources": [
+        "modula:2928"
+      ]
+    },
+    {
+      "file": "retina-architect2.png",
+      "original_relative_path": "2016/04/retina-architect2.png",
+      "sources": [
+        "modula:2928"
+      ]
+    },
+    {
+      "file": "WM1-scaled.jpg",
+      "original_relative_path": "2023/08/WM1-scaled.jpg",
+      "sources": [
+        "modula:2928"
+      ]
+    },
+    {
+      "file": "WM2-scaled.jpg",
+      "original_relative_path": "2023/08/WM2-scaled.jpg",
+      "sources": [
+        "modula:2928"
+      ]
+    },
+    {
+      "file": "426db2_d7d681b865b64df58e34c6336ec40146mv2.jpg",
+      "original_relative_path": "2023/07/426db2_d7d681b865b64df58e34c6336ec40146mv2.jpg",
+      "sources": [
+        "attachment-parent"
+      ]
+    }
+  ],
+  "missing_images": []
+}

@@ -1,0 +1,54 @@
+NOMBRE: CASA RINGO
+SLUG: casa-ringo
+WORDPRESS ID: 2881
+UBICACIÓN: General Alvear, Mendoza
+SUPERFICIE: 180 m2
+AÑO: 2016
+
+DESCRIPCIÓN
+===========
+Casa Ringo, se presenta como un volumen simple, pero su interior encierra un enigma geométrico-espacial. Dos tabiques de hormigón visto, como divisiones estructurales, se introducen en el espacio interior, creando una partición que divide el volumen en tres partes distintas. 
+
+Estos tabiques, más allá de su función estructural, se alzan como elementos estéticos que establecen un diálogo continuo entre el mundo interior y exterior de la casa. Su propósito se revela en la idea de fragmentar el vacío que se extiende desde el límite de la volumetría. En este cruce de límites y posibilidades, los tabiques, al extenderse hacia el exterior, fragmentan el espacio vacío de manera poética, creando instancias diversas y singulares tanto en el frente como en la expansión de la casa. Su propósito es más que estructural; es una búsqueda de la trascendencia del espacio convencional.
+
+Estos, además, despliegan el espacio interior más allá de sus límites habituales cuando las carpinterías se abren, llevando el interior hacia los confines que los tabiques proponen. La singularidad del espacio se difumina, invitando al interior a "ir más allá".
+
+General Alvear, Mendoza | 180 m2 | 2016
+
+La obra se define como espacios en pleno contacto con la naturaleza. Ubicada en un finca de 7 ha, esta casa respeta los dogmas de las viejas casa de campo mendocinas. La cocina, orientada al este, recibe la primera luz de día, el estar comedor en el centro con una amplia galería al norte y el bloque de dormitorios al oeste para recibir la última luz del día.
+
+ Desde el principio el proyecto plantea la experiencia sensorial como principal objetivo. El ingreso, que está conformado por un paseo arbolado ("avenida de los ciruelos") hace las veces de pequeño atrio, confluyendo en un hall semi-cubierto, unión de todas las partes. Hasta ese momento la casa se presenta como un sólido impenetrable, al abrir la puerta de acceso todo cambia, la visual se amplia casi infinitamente y lo lejano se hace cercano, se presentan constantes vistas enmarcadas hacia el gran jardín. 
+
+La elevación juega un papel fundamental en la percepción del espacio, lo que desde afuera se interpreta como un gran volumen consolidado sobre el suelo desde el interior se percibe de forma contraria, una constante sensación de ingravidez acompaña la vida cotidiana. 
+
+Por último, la galería principal, conectada directamente con la zona diurna por medio de una puerta de diseño de doble hoja que puede abrirse completamente ocultando sus partes detrás de los muros permite que el espacio puede tomar el doble de su tamaño original y haciendo también que el límite entre el interior y el exterior sea prácticamente imperceptible.
+
+Otros proyectos
+
+GALERÍAS MODULA
+================
+- ID 2866 | CASA RINGO | attachments=18 | urls=0
+
+IMÁGENES
+========
+01. RINGO.png <- 2023/06/RINGO.png [attachment-parent, featured]
+02. 00-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-20-1-scaled.jpg <- 2023/08/00-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-20-1-scaled.jpg [betheme-builder]
+03. home_architect2_pattern1.jpg <- 2016/04/home_architect2_pattern1.jpg [betheme-builder]
+04. 01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-12-scaled.jpg <- 2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-12-scaled.jpg [modula:2866]
+05. 01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-14-scaled.jpg <- 2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-14-scaled.jpg [modula:2866]
+06. 01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-15-scaled.jpg <- 2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-15-scaled.jpg [modula:2866]
+07. 01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg <- 2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-17-scaled.jpg [modula:2866]
+08. 01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-22-scaled.jpg <- 2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-22-scaled.jpg [modula:2866]
+09. 01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-5-scaled.jpg <- 2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-5-scaled.jpg [modula:2866]
+10. 01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-6-scaled.jpg <- 2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-6-scaled.jpg [modula:2866]
+11. 01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-8-scaled.jpg <- 2023/08/01-Casa-Ringo-Uno-mas-Uno-©-Luis-Abba-8-scaled.jpg [modula:2866]
+12. 01_page-0001-2-scaled.jpg <- 2023/08/01_page-0001-2-scaled.jpg [modula:2866]
+13. 02_page-0001-scaled.jpg <- 2023/08/02_page-0001-scaled.jpg [modula:2866]
+14. 03_page-0001-scaled.jpg <- 2023/08/03_page-0001-scaled.jpg [modula:2866]
+15. 04_page-0001-scaled.jpg <- 2023/08/04_page-0001-scaled.jpg [modula:2866]
+16. 05_page-0001-scaled.jpg <- 2023/08/05_page-0001-scaled.jpg [modula:2866]
+17. 06_page-0001-scaled.jpg <- 2023/08/06_page-0001-scaled.jpg [modula:2866]
+18. architect2.png <- 2016/04/architect2.png [modula:2866]
+19. home_architect2_contentslider_icon1.png <- 2016/04/home_architect2_contentslider_icon1.png [modula:2866]
+20. home_architect2_contentslider_icon2.png <- 2016/04/home_architect2_contentslider_icon2.png [modula:2866]
+21. retina-architect2.png <- 2016/04/retina-architect2.png [modula:2866]

@@ -1,0 +1,131 @@
+{
+  "wordpress_id": 2865,
+  "title": "PLANTA MIHOH",
+  "slug": "planta-mihoh",
+  "status": "publish",
+  "date": "2023-06-12 00:36:18",
+  "modified": "2023-09-26 19:21:47",
+  "menu_order": 0,
+  "location": "General Alvear, Mendoza",
+  "area": "180 m2",
+  "year": "2016",
+  "description": "La consigna del proyecto tiene es albergar una instalación para la purificación y envasado de agua. Aunque la función principal es pragmática, la arquitectura se convierte en el medio para dar vida a esta misión.\n\nEl diseño se despliega en dos naves de dimensiones idénticas, donde la funcionalidad y la eficiencia son las máximas prioridades. En una de estas naves, se encuentra la zona de atención al público y los servicios, mientras que la otra nave, un espacio vacío, alberga las maquinarias esenciales para el proceso de purificación y envasado del agua. La altura de la estructura es de 6 metros, una decisión clave que permite crear un entrepiso en la zona de atención al público, optimizando así el uso del espacio. Mientras tanto, en la nave destinada a la maquinaria, la doble altura se convierte en un lienzo en blanco para albergar las operaciones esenciales.\n\nLa construcción sigue un enfoque tradicional, lo que garantiza una base sólida y duradera para el funcionamiento de la instalación. El diseño se enriquece con elementos clave, como un frente vidriado en la planta baja, que conecta el interior con el mundo exterior y permite a los clientes y visitantes observar el proceso de purificación de agua. Por encima de esta área, un cerramiento de chapa trapezoidal negra otorga una identidad industrial distintiva a la obra. Este contraste entre el vidrio y la chapa crea una interacción interesante entre la funcionalidad pura y la estética, lo que agrega profundidad y carácter al espacio.\n\nGeneral Alvear, Mendoza | 180 m2 | 2016\n\nLa obra se define como espacios en pleno contacto con la naturaleza. Ubicada en un finca de 7 ha, esta casa respeta los dogmas de las viejas casa de campo mendocinas. La cocina, orientada al este, recibe la primera luz de día, el estar comedor en el centro con una amplia galería al norte y el bloque de dormitorios al oeste para recibir la última luz del día.\n\n Desde el principio el proyecto plantea la experiencia sensorial como principal objetivo. El ingreso, que está conformado por un paseo arbolado (\"avenida de los ciruelos\") hace las veces de pequeño atrio, confluyendo en un hall semi-cubierto, unión de todas las partes. Hasta ese momento la casa se presenta como un sólido impenetrable, al abrir la puerta de acceso todo cambia, la visual se amplia casi infinitamente y lo lejano se hace cercano, se presentan constantes vistas enmarcadas hacia el gran jardín. \n\nLa elevación juega un papel fundamental en la percepción del espacio, lo que desde afuera se interpreta como un gran volumen consolidado sobre el suelo desde el interior se percibe de forma contraria, una constante sensación de ingravidez acompaña la vida cotidiana. \n\nPor último, la galería principal, conectada directamente con la zona diurna por medio de una puerta de diseño de doble hoja que puede abrirse completamente ocultando sus partes detrás de los muros permite que el espacio puede tomar el doble de su tamaño original y haciendo también que el límite entre el interior y el exterior sea prácticamente imperceptible.\n\nOtros proyectos",
+  "modula_galleries": [
+    {
+      "id": 2860,
+      "title": "PLANTA",
+      "post_type": "modula-gallery",
+      "attachment_ids": [
+        21,
+        22,
+        54,
+        2861,
+        2862,
+        2863,
+        2864,
+        3016,
+        3017,
+        3018,
+        3019
+      ],
+      "url_refs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "MIHOH.png",
+      "original_relative_path": "2023/06/MIHOH.png",
+      "sources": [
+        "attachment-parent",
+        "featured"
+      ]
+    },
+    {
+      "file": "home_architect2_pattern1.jpg",
+      "original_relative_path": "2016/04/home_architect2_pattern1.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "Planta-Potabilizadora-Uno-mas-Uno-©-Luis-Abba-22-1-scaled.jpg",
+      "original_relative_path": "2023/08/Planta-Potabilizadora-Uno-mas-Uno-©-Luis-Abba-22-1-scaled.jpg",
+      "sources": [
+        "betheme-builder"
+      ]
+    },
+    {
+      "file": "01-pdf-e1695905554241.jpg",
+      "original_relative_path": "2023/09/01-pdf-e1695905554241.jpg",
+      "sources": [
+        "modula:2860"
+      ]
+    },
+    {
+      "file": "02-pdf-e1695905457726.jpg",
+      "original_relative_path": "2023/09/02-pdf-e1695905457726.jpg",
+      "sources": [
+        "modula:2860"
+      ]
+    },
+    {
+      "file": "03-pdf-e1695905445833.jpg",
+      "original_relative_path": "2023/09/03-pdf-e1695905445833.jpg",
+      "sources": [
+        "modula:2860"
+      ]
+    },
+    {
+      "file": "04-pdf-e1695905425852.jpg",
+      "original_relative_path": "2023/09/04-pdf-e1695905425852.jpg",
+      "sources": [
+        "modula:2860"
+      ]
+    },
+    {
+      "file": "architect2.png",
+      "original_relative_path": "2016/04/architect2.png",
+      "sources": [
+        "modula:2860"
+      ]
+    },
+    {
+      "file": "Planta-Potabilizadora-Uno-mas-Uno-©-Luis-Abba-22-1-1-scaled.jpg",
+      "original_relative_path": "2023/08/Planta-Potabilizadora-Uno-mas-Uno-©-Luis-Abba-22-1-1-scaled.jpg",
+      "sources": [
+        "modula:2860"
+      ]
+    },
+    {
+      "file": "Planta-Potabilizadora-Uno-mas-Uno-©-Luis-Abba-22-2-scaled.jpg",
+      "original_relative_path": "2023/08/Planta-Potabilizadora-Uno-mas-Uno-©-Luis-Abba-22-2-scaled.jpg",
+      "sources": [
+        "modula:2860"
+      ]
+    },
+    {
+      "file": "Planta-Potabilizadora-Uno-mas-Uno-©-Luis-Abba-22-3-scaled.jpg",
+      "original_relative_path": "2023/08/Planta-Potabilizadora-Uno-mas-Uno-©-Luis-Abba-22-3-scaled.jpg",
+      "sources": [
+        "modula:2860"
+      ]
+    },
+    {
+      "file": "Planta-Potabilizadora-Uno-mas-Uno-©-Luis-Abba-22-4-scaled.jpg",
+      "original_relative_path": "2023/08/Planta-Potabilizadora-Uno-mas-Uno-©-Luis-Abba-22-4-scaled.jpg",
+      "sources": [
+        "modula:2860"
+      ]
+    },
+    {
+      "file": "retina-architect2.png",
+      "original_relative_path": "2016/04/retina-architect2.png",
+      "sources": [
+        "modula:2860"
+      ]
+    }
+  ],
+  "missing_images": [
+    "2016/04/home_architect2_slider2.jpg"
+  ]
+}
