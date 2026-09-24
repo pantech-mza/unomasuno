@@ -1,9 +1,9 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import styles from "./Header.module.css";
+import { Menu, X } from "lucide-react";
+import { useEffect, useState } from "react";
 
 const items = [
   { href: "/", label: "Proyectos" },
@@ -14,36 +14,24 @@ const items = [
 
 export default function Header() {
   const pathname = usePathname();
-  const [menuOpen, setMenuOpen] = useState(false);
+  const [open, setOpen] = useState(false);
+
+  useEffect(() => setOpen(false), [pathname]);
 
   useEffect(() => {
-    setMenuOpen(false);
-  }, [pathname]);
-
-  useEffect(() => {
-    if (!menuOpen) return;
-
-    const previousOverflow = document.body.style.overflow;
-    document.body.style.overflow = "hidden";
-
-    const closeOnEscape = (event: KeyboardEvent) => {
-      if (event.key === "Escape") setMenuOpen(false);
-    };
-
-    window.addEventListener("keydown", closeOnEscape);
+    document.body.style.overflow = open ? "hidden" : "";
 
     return () => {
-      document.body.style.overflow = previousOverflow;
-      window.removeEventListener("keydown", closeOnEscape);
+      document.body.style.overflow = "";
     };
-  }, [menuOpen]);
+  }, [open]);
 
   const isActive = (href: string) =>
     href === "/" ? pathname === "/" : pathname.startsWith(href);
 
   return (
-    <header className={`site-header ${styles.header}`}>
-      <div className={`container header-inner ${styles.headerInner}`}>
+    <header className="site-header">
+      <div className="site-container header-inner">
         <Link
           href="/"
           className="brand-logo-link"
@@ -56,8 +44,7 @@ export default function Header() {
           />
         </Link>
 
-        {/* Desktop */}
-        <nav className={`nav ${styles.desktopNav}`} aria-label="Navegación principal">
+        <nav className="desktop-nav" aria-label="Navegación principal">
           {items.map((item) => (
             <Link
               key={item.href}
@@ -70,53 +57,78 @@ export default function Header() {
 
           <Link
             href="/admin/login"
-            className={styles.loginButton}
+            style={{
+              alignSelf: "center",
+              height: "42px",
+              padding: "0 22px",
+              marginLeft: "10px",
+              background: "#000",
+              color: "#fff",
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              whiteSpace: "nowrap",
+            }}
           >
             Ingreso
           </Link>
         </nav>
 
-        {/* Mobile toggle */}
         <button
+          className="mobile-menu-button"
           type="button"
-          className={`mobile-menu ${styles.menuButton}`}
-          onClick={() => setMenuOpen((open) => !open)}
-          aria-label={menuOpen ? "Cerrar menú" : "Abrir menú"}
-          aria-expanded={menuOpen}
-          aria-controls="mobile-navigation"
+          aria-label={open ? "Cerrar menú" : "Abrir menú"}
+          aria-expanded={open}
+          onClick={() => setOpen((value) => !value)}
         >
-          <span className={menuOpen ? styles.barTopOpen : styles.bar} />
-          <span className={menuOpen ? styles.barMiddleOpen : styles.bar} />
-          <span className={menuOpen ? styles.barBottomOpen : styles.bar} />
+          {open ? (
+            <X size={27} strokeWidth={1.7} />
+          ) : (
+            <Menu size={27} strokeWidth={1.7} />
+          )}
         </button>
       </div>
 
-      {/* Mobile menu */}
       <div
-        id="mobile-navigation"
-        className={`${styles.mobilePanel} ${menuOpen ? styles.mobilePanelOpen : ""}`}
-      >
-        <nav className={styles.mobileNav} aria-label="Navegación móvil">
-          {items.map((item) => (
-            <Link
-              key={item.href}
-              href={item.href}
-              className={isActive(item.href) ? styles.mobileActive : ""}
-              onClick={() => setMenuOpen(false)}
-            >
-              {item.label}
-            </Link>
-          ))}
+        className={`mobile-nav-backdrop ${open ? "is-open" : ""}`}
+        onClick={() => setOpen(false)}
+      />
 
+      <nav
+        className={`mobile-nav ${open ? "is-open" : ""}`}
+        aria-label="Navegación móvil"
+      >
+        <div className="mobile-nav-logo">
+          <img
+            src="/brand/header-logo.png"
+            alt="UNO MÁS UNO Arquitectos"
+          />
+        </div>
+
+        {items.map((item) => (
           <Link
-            href="/admin/login"
-            className={styles.mobileLoginButton}
-            onClick={() => setMenuOpen(false)}
+            key={item.href}
+            href={item.href}
+            className={isActive(item.href) ? "active" : ""}
           >
-            Ingreso
+            {item.label}
           </Link>
-        </nav>
-      </div>
+        ))}
+
+        <Link
+          href="/admin/login"
+          style={{
+            marginTop: "22px",
+            background: "#000",
+            color: "#fff",
+            borderBottom: "0",
+            justifyContent: "center",
+            textAlign: "center",
+          }}
+        >
+          Ingreso
+        </Link>
+      </nav>
     </header>
   );
 }
