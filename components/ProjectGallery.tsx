@@ -45,17 +45,9 @@ export default function ProjectGallery({
     document.body.style.overflow = "hidden";
 
     const handleKeyDown = (event: KeyboardEvent) => {
-      if (event.key === "Escape") {
-        close();
-      }
-
-      if (event.key === "ArrowLeft") {
-        previous();
-      }
-
-      if (event.key === "ArrowRight") {
-        next();
-      }
+      if (event.key === "Escape") close();
+      if (event.key === "ArrowLeft") previous();
+      if (event.key === "ArrowRight") next();
     };
 
     window.addEventListener("keydown", handleKeyDown);
@@ -103,12 +95,22 @@ export default function ProjectGallery({
           role="dialog"
           aria-modal="true"
           aria-label={`Galería ampliada de ${title}`}
-          onMouseDown={close}
+          onMouseDown={(event) => {
+            // Cerrar SOLO cuando se hace click directamente sobre el fondo.
+            // Los controles y la imagen no deben cerrar el modal.
+            if (event.target === event.currentTarget) {
+              close();
+            }
+          }}
         >
           <button
             type="button"
             className={styles.closeButton}
-            onClick={close}
+            onMouseDown={(event) => event.stopPropagation()}
+            onClick={(event) => {
+              event.stopPropagation();
+              close();
+            }}
             aria-label="Cerrar imagen"
           >
             ×
@@ -118,6 +120,7 @@ export default function ProjectGallery({
             <button
               type="button"
               className={`${styles.navButton} ${styles.prevButton}`}
+              onMouseDown={(event) => event.stopPropagation()}
               onClick={(event) => {
                 event.stopPropagation();
                 previous();
@@ -131,11 +134,13 @@ export default function ProjectGallery({
           <div
             className={styles.modalContent}
             onMouseDown={(event) => event.stopPropagation()}
+            onClick={(event) => event.stopPropagation()}
           >
             <img
               src={activeImage}
               alt={`${title} - imagen ${(activeIndex ?? 0) + 1} ampliada`}
               className={styles.modalImage}
+              draggable={false}
             />
 
             <div className={styles.counter}>
@@ -147,6 +152,7 @@ export default function ProjectGallery({
             <button
               type="button"
               className={`${styles.navButton} ${styles.nextButton}`}
+              onMouseDown={(event) => event.stopPropagation()}
               onClick={(event) => {
                 event.stopPropagation();
                 next();
