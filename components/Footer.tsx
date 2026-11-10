@@ -1,4 +1,4 @@
-import { getSiteSettings } from "@/lib/settings";
+import { DEFAULT_LOGOS, getSiteSettings } from "@/lib/settings";
 
 const CONTACT = {
   instagram_url: "https://www.instagram.com/unomasuno_arquitectos",
@@ -37,6 +37,9 @@ export default async function Footer() {
   const phoneValue =
     settings.phone?.trim() || CONTACT.phone;
 
+  const footerLogo =
+    settings.footer_logo_url?.trim() || DEFAULT_LOGOS.footer;
+
   const phones = phoneValue
     .split("|")
     .map((phone: string) => phone.trim())
@@ -47,7 +50,7 @@ export default async function Footer() {
       <div className="site-container footer-grid">
         <div className="footer-logo-wrap">
           <img
-            src="/brand/footer-logo.png"
+            src={footerLogo}
             alt="UNO MÁS UNO Arquitectos"
             className="footer-logo-img"
           />

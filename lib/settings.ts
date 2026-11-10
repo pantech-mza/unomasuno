@@ -1,4 +1,5 @@
 import { createClient } from "@/lib/supabase-server";
+import { DEFAULT_LOGOS_CLIENT } from "@/lib/logo-defaults";
 
 export type SiteSettings = {
   id: number;
@@ -9,6 +10,8 @@ export type SiteSettings = {
   address: string | null;
   about_title: string | null;
   about_body: string | null;
+  logo_url: string | null;
+  footer_logo_url: string | null;
 };
 
 export const DEFAULT_SETTINGS: SiteSettings = {
@@ -20,6 +23,8 @@ export const DEFAULT_SETTINGS: SiteSettings = {
   address: "Mendoza, Argentina",
   about_title: "UNO MÁS UNO Arquitectos",
   about_body: null,
+  logo_url: null,
+  footer_logo_url: null,
 };
 
 export async function getSiteSettings(): Promise<SiteSettings> {
@@ -27,4 +32,19 @@ export async function getSiteSettings(): Promise<SiteSettings> {
   const { data, error } = await supabase.from("site_settings").select("*").eq("id", 1).maybeSingle();
   if (error || !data) return DEFAULT_SETTINGS;
   return { ...DEFAULT_SETTINGS, ...data } as SiteSettings;
+}
+
+/** Logos por defecto (archivos en /public/brand). Se usan si no se subió uno desde el panel. */
+export const DEFAULT_LOGOS = DEFAULT_LOGOS_CLIENT;
+
+export async function getSiteLogos() {
+  try {
+    const s = await getSiteSettings();
+    return {
+      header: s.logo_url?.trim() || DEFAULT_LOGOS.header,
+      footer: s.footer_logo_url?.trim() || DEFAULT_LOGOS.footer,
+    };
+  } catch {
+    return DEFAULT_LOGOS;
+  }
 }
