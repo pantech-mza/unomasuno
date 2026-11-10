@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
 
 const items = [
   { href: "/", label: "Proyectos" },
+  { href: "/concursos", label: "Concursos" },
   { href: "/menciones", label: "Menciones" },
   { href: "/academia", label: "Academia" },
   { href: "/nosotros", label: "Nosotros" },

@@ -58,6 +58,7 @@ export default async function Footer() {
 
         <nav className="footer-nav" aria-label="Navegación de pie">
           <a href="/">Proyectos</a>
+          <a href="/concursos">Concursos</a>
           <a href="/nosotros">Nosotros</a>
           <a href="/academia">Academia</a>
           <a href="/menciones">Menciones</a>

@@ -8,6 +8,7 @@ export default function AdminShell({ children }: { children: React.ReactNode }) 
       <aside className="admin-side">
         <Link href="/admin">Dashboard</Link>
         <Link href="/admin/proyectos">Proyectos</Link>
+        <Link href="/admin/concursos">Concursos</Link>
         <Link href="/admin/menciones">Menciones</Link>
         <Link href="/admin/academia">Academia</Link>
         <Link href="/admin/nosotros">Nosotros</Link>

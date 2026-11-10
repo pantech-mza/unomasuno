@@ -1,4 +1,7 @@
-{"timestamp":"00:00:14.279","source":"Server","level":"WARN","message":"⚠ Slow filesystem detected. The benchmark took 310ms. If \\\\?\\D:\\unomasuno\\.next\\dev is a network drive, consider moving it to a local folder.\nSee more: https://nextjs.org/docs/app/guides/local-development"}
-{"timestamp":"00:00:23.506","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:23.548","source":"Server","level":"ERROR","message":"Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'D:\\System Volume Information'"}
-{"timestamp":"00:00:26.573","source":"Server","level":"LOG","message":"○ Compiling /admin ..."}
+{"timestamp":"00:00:26.594","source":"Server","level":"WARN","message":"⚠ Slow filesystem detected. The benchmark took 251ms. If \\\\?\\D:\\unomasuno\\.next\\dev is a network drive, consider moving it to a local folder.\nSee more: https://nextjs.org/docs/app/guides/local-development"}
+{"timestamp":"00:00:38.049","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:38.287","source":"Server","level":"ERROR","message":"Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'D:\\System Volume Information'"}
+{"timestamp":"00:00:41.182","source":"Server","level":"LOG","message":"○ Compiling /admin/login ..."}
+{"timestamp":"00:01:52.583","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"00:01:52.833","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"00:01:58.961","source":"Server","level":"LOG","message":"○ Compiling /admin/concursos ..."}
